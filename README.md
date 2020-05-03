@@ -18,11 +18,11 @@ La base de datos está compuesta de los siguientes archivos:
 <> + **Argentina-covid19-casos-total-por-provincia.csv**
 + **Argentina-covid19-muertes.csv**
 
-El primer data set, Argentina-covid19.csv,  tiene las siguientes variables:
+El primer data set, Argentina-covid19.csv, contiene las siguientes variables:
 
-+ *fecha*: fecha de los datos reportados
-+ *casos_nuevos*: casos nuevos del día
-+ *casos_total*: total de casos hasta el momento	
++ *fecha*: Fecha de los datos reportados
++ *casos_nuevos*: Casos nuevos del día
++ *casos_total*: Total de casos hasta el momento	
 + *%mujer*:	Porcentaje de mujeres del total de casos hasta el momento
 + *%varon*:	Porcentaje de varones del total de casos hasta el momento
 + *mujer_total*: Número de mujeres infectadas del total de infectados hasta el momento
@@ -46,19 +46,20 @@ El primer data set, Argentina-covid19.csv,  tiene las siguientes variables:
 + *tests_realizados_nuevos*: Cantidad de tests realizados en el día
 + *observaciones*: Información relevante del día de la fecha
 
-El archivo Argentina-covid19-por-provincia.csv contiene información de las provincias,
+El archivo Argentina-covid19-por-provincia.csv contiene información 
+de las 23 provincias Argentinas y de la Ciudad Autónoma de Buenos Aires (CABA),
 sus variables son:
 
-+ *fecha*:
-+ *provincia*:
-+ *casos_total*:
-+ *casos_nuevos*:	
-+ *muertes_total*:	
-+ *muertes_nuevos*:	
-+ *importados_nuevos*:	
-+ *importados_total*:	
-+ *local_nuevos*:	
-+ *observaciones*:
++ *fecha*: Fecha de los datos reportados
++ *provincia*: Provincia en la que se registran los casos
++ *casos_total*: Total de casos hasta el momento en la provincia
++ *casos_nuevos*: Casos nuevos del día en la provincia
++ *muertes_total*: Cantidad de fallecidos hasta el momento en la Provincia
++ *muertes_nuevos*:	Cantidad de fallecidos del día en la Provincia
++ *importados_nuevos*: Cantidad de casos que son importados de los casos nuevos del día
++ *importados_total*: Cantidad de casos que son importados del total de casos
++ *local_nuevos*: Contagiados que son contactos estrechos de casos confirmados del día
++ *observaciones*: Información relevante sobre la situación en la provincia al día de la fecha 
 
 En Argentina-covid19-muertes.csv, tenemos un registro por cada fallecido por Coronavirus en el país.
 Las variables consideradas son:

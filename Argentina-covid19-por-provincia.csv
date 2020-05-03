@@ -1,4 +1,4 @@
-fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,importados_nuevos,importados_total,contacto_estrecho_nuevos,Observaciones
+fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,importados_nuevos,importados_total,local_nuevos,observaciones
 2020-03-05,Buenos Aires,0,0,0,0,0,0,0,
 2020-03-05,CABA,1,1,0,0,1,1,0,
 2020-03-05,Catamarca,0,0,0,0,0,0,0,
@@ -576,7 +576,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,importados
 2020-03-28,Tucumán,15,0,0,0,,,,
 2020-03-29,CABA,258,13,21,0,,,,
 2020-03-29,Buenos Aires,217,16,5,0,,,,
-2020-03-29,Córdoba,73,16,0,0,,,,"Hoy se reportan 18 casos, pero se reclasificaron 2 casos de ayer"
+2020-03-29,Córdoba,73,16,0,0,,,,"Hoy se reportan 18 casos, pero se reclasificaron 2 casos de ayer."
 2020-03-29,Chaco,69,4,3,0,,,,
 2020-03-29,Santa Fe,90,13,0,0,,,,
 2020-03-29,Tierra del Fuego,21,4,0,0,,,,
@@ -908,7 +908,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,importados
 2020-04-11,Santa Cruz,40,3,0,0,,,,
 2020-04-11,Santa Fe,200,3,2,0,,,,
 2020-04-11,Santiago del Estero,12,3,0,0,,,,
-2020-04-11,Tierra del Fuego,91,8,0,0,,,,Se incluyeron 5 casos de las Islas Malvinas
+2020-04-11,Tierra del Fuego,91,8,0,0,,,,Se incluyeron 5 casos de las Islas Malvinas.
 2020-04-11,Tucumán,30,1,4,0,,,,
 2020-04-12,Buenos Aires,572,28,37,4,,,,
 2020-04-12,CABA,586,8,41,1,,,,
@@ -917,7 +917,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,importados
 2020-04-12,Chubut,0,0,0,0,0,0,0,
 2020-04-12,Córdoba,206,5,3,1,,,,
 2020-04-12,Corrientes,24,0,0,0,,,,
-2020-04-12,Entre Ríos,21,-1,0,0,,,,"Un caso hasta ayer contabilizado en la provincia de Entre Ríos, hoy actualizó su domicilio y se suma a la provincia de Buenos Aires"
+2020-04-12,Entre Ríos,21,-1,0,0,,,,"Un caso hasta ayer contabilizado en la provincia de Entre Ríos, hoy actualizó su domicilio y se suma a la provincia de Buenos Aires."
 2020-04-12,Formosa,0,0,0,0,0,0,0,
 2020-04-12,Jujuy,5,0,0,0,,,,
 2020-04-12,La Pampa,5,0,0,0,,,,
@@ -980,7 +980,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,importados
 2020-04-14,Santa Cruz,40,0,0,0,,,,
 2020-04-14,Santa Fe,207,2,2,0,,,,
 2020-04-14,Santiago del Estero,12,0,0,0,,,,
-2020-04-14,Tierra del Fuego,107,8,0,0,,,,Se incluyen 11 casos existentes en las Islas Malvinas según información de prensa
+2020-04-14,Tierra del Fuego,107,8,0,0,,,,Se incluyen 11 casos existentes en las Islas Malvinas según información de prensa.
 2020-04-14,Tucumán,30,0,4,0,,,,
 2020-04-15,Buenos Aires,729,62,44,1,,,,
 2020-04-15,CABA,648,30,46,4,,,,
@@ -988,7 +988,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,importados
 2020-04-15,Chaco,191,7,9,0,,,,
 2020-04-15,Chubut,1,1,0,0,1,1,0,
 2020-04-15,Córdoba,228,6,6,1,,,,
-2020-04-15,Corrientes,31,-1,0,0,,,,Corresponde a un caso que fue reclasificado
+2020-04-15,Corrientes,31,-1,0,0,,,,Corresponde a un caso que fue reclasificado.
 2020-04-15,Entre Ríos,21,0,0,0,,,,
 2020-04-15,Formosa,0,0,0,0,0,0,0,
 2020-04-15,Jujuy,5,0,0,0,,,,
@@ -1022,7 +1022,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,importados
 2020-04-16,Misiones,3,0,0,0,,,,
 2020-04-16,Neuquén,92,1,4,0,,,,
 2020-04-16,Río Negro,115,9,3,0,,,,
-2020-04-16,Salta,3,-1,0,0,,,,Corresponde a un caso que fue reclasificado
+2020-04-16,Salta,3,-1,0,0,,,,Corresponde a un caso que fue reclasificado.
 2020-04-16,San Juan,2,0,0,0,,,,
 2020-04-16,San Luis,11,0,0,0,,,,
 2020-04-16,Santa Cruz,40,0,0,0,,,,
@@ -1034,7 +1034,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,importados
 2020-04-17,CABA,677,14,50,1,,,,
 2020-04-17,Catamarca,0,0,0,0,0,0,0,
 2020-04-17,Chaco,224,22,10,0,,,,
-2020-04-17,Chubut,1,-1,0,0,,,,"Un caso reportado ayer por la provincia de Chubut, fue reclasificado por domicilio real a Provincia de Buenos Aires"
+2020-04-17,Chubut,1,-1,0,0,,,,"Un caso reportado ayer por la provincia de Chubut, fue reclasificado por domicilio real a Provincia de Buenos Aires."
 2020-04-17,Córdoba,247,6,6,0,,,,
 2020-04-17,Corrientes,31,0,0,0,,,,
 2020-04-17,Entre Ríos,22,0,0,0,,,,
@@ -1044,7 +1044,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,importados
 2020-04-17,La Rioja,35,1,3,1,,,,
 2020-04-17,Mendoza,69,1,8,2,,,,
 2020-04-17,Misiones,4,1,0,0,,,,
-2020-04-17,Neuquén,93,1,4,0,,,,"Este caso corresponde a un caso antiguo que fue cargado por error como otro Coronavirus, y que en el día de hoy se reclasificó"
+2020-04-17,Neuquén,93,1,4,0,,,,"Este caso corresponde a un caso antiguo que fue cargado por error como otro Coronavirus, y que en el día de hoy se reclasificó."
 2020-04-17,Río Negro,116,1,3,0,,,,
 2020-04-17,Salta,3,0,0,0,,,,
 2020-04-17,San Juan,2,0,0,0,,,,
@@ -1148,7 +1148,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,importados
 2020-04-21,Santa Cruz,41,0,0,0,,,,
 2020-04-21,Santa Fe,225,1,2,0,,,,
 2020-04-21,Santiago del Estero,12,0,0,0,,,,
-2020-04-21,Tierra del Fuego,124,1,0,0,,,,Se incluyen 12 casos existentes en las Islas Malvinas según información de prensa
+2020-04-21,Tierra del Fuego,124,1,0,0,,,,Se incluyen 12 casos existentes en las Islas Malvinas según información de prensa.
 2020-04-21,Tucumán,31,0,4,0,,,,
 2020-04-22,Buenos Aires,1036,61,63,5,,,,
 2020-04-22,CABA,800,39,57,2,,,,
@@ -1221,7 +1221,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,importados
 2020-04-24,Santa Fe,239,3,2,0,,,,
 2020-04-24,Santiago del Estero,12,0,0,0,,,,
 2020-04-24,Tierra del Fuego,126,1,0,0,,,,
-2020-04-24,Tucumán,34,-1,4,0,,,,"Un caso notificado en la provincia de Tucumán, se reclasificó por residencia en la provincia de Córdoba"
+2020-04-24,Tucumán,34,-1,4,0,,,,"Un caso notificado en la provincia de Tucumán, se reclasificó por residencia en la provincia de Córdoba."
 2020-04-25,Buenos Aires,1275,94,74,2,,,,
 2020-04-25,CABA,971,55,66,4,,,,
 2020-04-25,Catamarca,0,0,0,0,0,0,0,
@@ -1244,7 +1244,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,importados
 2020-04-25,Santa Cruz,42,0,0,0,,,,
 2020-04-25,Santa Fe,242,3,2,0,,,,
 2020-04-25,Santiago del Estero,13,1,0,0,,,,
-2020-04-25,Tierra del Fuego,130,4,0,0,,,,Se incluyen 13 casos existentes en las Islas Malvinas según información de prensa
+2020-04-25,Tierra del Fuego,130,4,0,0,,,,Se incluyen 13 casos existentes en las Islas Malvinas según información de prensa.
 2020-04-25,Tucumán,34,0,4,0,,,,
 2020-04-26,Buenos Aires,1331,56,76,2,,,,
 2020-04-26,CABA,1007,36,71,5,,,,
@@ -1380,7 +1380,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,importados
 2020-05-01,La Rioja,55,3,,0,,,,
 2020-05-01,Mendoza,84,1,,0,,,,
 2020-05-01,Misiones,12,0,,0,,,,
-2020-05-01,Neuquén,110,0,,0,,,,Neuquén reclasificó un caso descartado que figuraba como confirmado debido a un error de carga
+2020-05-01,Neuquén,110,0,,0,,,,Neuquén reclasificó un caso descartado que figuraba como confirmado debido a un error de carga.
 2020-05-01,Río Negro,236,8,,0,,,,
 2020-05-01,Salta,4,0,,0,,,,
 2020-05-01,San Juan,2,0,,0,,,,
