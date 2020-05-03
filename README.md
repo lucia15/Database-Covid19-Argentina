@@ -15,7 +15,6 @@ La base de datos está compuesta de los siguientes archivos:
 
 + **Argentina-covid19.csv**
 + **Argentina-covid19-por-provincia.csv**
-<> + **Argentina-covid19-casos-total-por-provincia.csv**
 + **Argentina-covid19-muertes.csv**
 
 El primer data set, Argentina-covid19.csv, contiene las siguientes variables:
