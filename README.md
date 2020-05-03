@@ -8,9 +8,6 @@ https://www.argentina.gob.ar/coronavirus/informe-diario
 
 Se actualiza diariamente con cada nuevo informe publicado.
 
-Usted tiene permiso para usar, distribuir y reproducir en cualquier medio, 
-siempre que se acredite la fuente y la autora.
-
 La base de datos está compuesta de los siguientes archivos:
 
 + **Argentina-covid19.csv**
@@ -98,4 +95,20 @@ ________________________________________________________________________________
 
 
 
+# Licencia
 
+Esta base de datos se libera bajo una licencia Creative Commons Reconocimiento
+4.0 Internacional (CC BY 4.0).
+
+Usted es libre de:
+
++ *Compartir* - copiar y redistribuir el material en cualquier medio o formato.
++ *Adaptar* - remezclar, transformar y crear a partir del material para
+  cualquier finalidad, incluso comercial.
+
+Siempre y cuando reconozca adecuadamente la autoría, proporcione un enlace a la
+licencia e indique si se han realizado cambios. Puede hacerlo de cualquier
+manera razonable, pero no de una manera que sugiera que tiene el apoyo del
+licenciador o lo recibe por el uso que hace.
+
+Para más información lea la licencia.
