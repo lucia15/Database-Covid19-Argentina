@@ -15,7 +15,7 @@ La base de datos está compuesta de los siguientes archivos:
 
 + **Argentina-covid19.csv**
 + **Argentina-covid19-por-provincia.csv**
-#+ **Argentina-covid19-casos-total-por-provincia.csv**
+<> + **Argentina-covid19-casos-total-por-provincia.csv**
 + **Argentina-covid19-muertes.csv**
 
 El primer data set, Argentina-covid19.csv,  tiene las siguientes variables:
@@ -49,8 +49,31 @@ El primer data set, Argentina-covid19.csv,  tiene las siguientes variables:
 El archivo Argentina-covid19-por-provincia.csv contiene información de las provincias,
 sus variables son:
 
-+
-+
++ *fecha*:
++ *provincia*:
++ *casos_total*:
++ *casos_nuevos*:	
++ *muertes_total*:	
++ *muertes_nuevos*:	
++ *importados_nuevos*:	
++ *importados_total*:	
++ *local_nuevos*:	
++ *observaciones*:
+
+En Argentina-covid19-muertes.csv, tenemos un registro por cada fallecido por Coronavirus en el país.
+Las variables consideradas son:
+
++ *fecha*: Día del deceso 
++ *provincia*: Provincia de residencia del fallecido	
++ *genero*:	Identidad de género del/a fallecido/a
++ *edad*: Edad del fallecido	
++ *tipo_caso*: Caso importado, local/conglomerado (contacto estrecho de un importado) o de contagio comunitario
++ *viajes_o_relacion_con_el_exterior*: Información sobre viajes al exterior 
+del fallecido o sus allegados (en caso de tratarse de un caso local) y otras observaciones de interés
++ *comorbilidad_observaciones*: comorbilidades y otras observaciones de interés
+
+
+
 
 
 
