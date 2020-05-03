@@ -46,7 +46,7 @@ El primer data set, Argentina-covid19.csv, contiene las siguientes variables:
 + *observaciones*: Información relevante del día de la fecha
 
 El archivo Argentina-covid19-por-provincia.csv contiene información 
-de las 23 provincias Argentinas y de la Ciudad Autónoma de Buenos Aires (CABA),
+sobre las 23 provincias Argentinas y de la Ciudad Autónoma de Buenos Aires (CABA),
 sus variables son:
 
 + *fecha*: Fecha de los datos reportados
@@ -72,6 +72,27 @@ Las variables consideradas son:
 del fallecido o sus allegados (en caso de tratarse de un caso local) y otras observaciones de interés
 + *comorbilidad_observaciones*: comorbilidades y otras observaciones de interés
 
+________________________________________________________________________________
+
+# Práctico 1: Análisis y Visualización
+
+### Objetivos:
+
+# Práctico 2: Análisis y Curación
+
+### Objetivos:
+
+# Práctico 3: Introducción al Machine Learning
+
+### Objetivos:
+
+# Práctico 4: Aprendizaje Supervisado
+
+### Objetivos:
+
+# Práctico 5: Aprendizaje No Supervisado
+
+### Objetivos:
 
 
 
