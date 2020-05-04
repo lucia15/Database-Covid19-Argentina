@@ -2,6 +2,9 @@
 Argentina-covid19-casos.csv
 Argentina-covid19-casos-total-por-provincia.csv
 
+# Ignorar archivos ocultos
+.~lock.Argentina-covid19.csv#
+
 # Ignoro archivos generados por una notebook
 IntroML/arbol1
 IntroML/arbol1.pdf
