@@ -110,9 +110,9 @@ Procesar el conjunto de datos para poder utilizarlos en el análisis exploratori
 # Práctico 3: Introducción al Machine Learning
 
 ### Objetivos:
-En este práctico utilizaremos algunos algoritmos básicos de aprendizaje automático para intentar encontrar patrones en los datos, y evaluaremos los resultados usando métricas estándares para cada tipo de problema.
+Nos proponemos utilizar algunos algoritmos básicos de aprendizaje automático para intentar encontrar patrones en los datos, y evaluar los resultados usando métricas estándares para cada tipo de problema.
 
-El objetivo del práctico es que pensemos en las distintas formas que puede tomar el modelado de un problema con datos, y en el trabajo de selección de features que debe realizarse para poder abordarlo.
+El objetivo es que pensemos en las distintas formas que puede tomar el modelado de un problema con datos, y en el trabajo de selección de features que debe realizarse para poder abordarlo.
 
 Para ello intentaremos responder la siguiente pregunta:
 
