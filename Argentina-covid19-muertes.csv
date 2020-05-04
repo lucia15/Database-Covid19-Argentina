@@ -1,23 +1,23 @@
-fecha,provincia,genero,edad,tipo_caso,viajes_o_relacion_con_el_exterior,comorbilidad_observaciones
+fecha,provincia,genero,edad,tipo_caso,comorbilidad_y_observaciones,viajes_u_observaciones
 2020-03-09,,,,importado,,
-2020-03-13,Chaco,hombre,61,importado,,"Trabajador de la salud, diagnosticado el 2020-03-12"
-2020-03-21,Buenos Aires,mujer,67,importado,"Viajó a República Dominicana, crucero Caribe, 29/2 – 12/3","Obesidad, enfermedad pulmonar obstructiva crónica"
-2020-03-24,,hombre,71,importado,Viajó a España,"Diabetes, obesidad"
+2020-03-13,Chaco,hombre,61,importado,"Trabajador de la salud, diagnosticado el 2020-03-12",
+2020-03-21,Buenos Aires,mujer,67,importado,"Obesidad, enfermedad pulmonar obstructiva crónica","Viajó a República Dominicana, crucero Caribe, 29/2 – 12/3"
+2020-03-24,,hombre,71,importado,"Diabetes, obesidad",Viajó a España
 2020-03-24,,hombre,53,local,,
-2020-03-25,CABA,mujer,81,local,,Enfermedad neurológica crónica
-2020-03-25,Chaco,mujer,73,,,"Diabetes, hipertensión, obesidad"
-2020-03-26,Chaco,hombre,59,importado,Viajó a Estados Unidos,En estudio.
+2020-03-25,CABA,mujer,81,local,Enfermedad neurológica crónica,
+2020-03-25,Chaco,mujer,73,,"Diabetes, hipertensión, obesidad",
+2020-03-26,Chaco,hombre,59,importado,En estudio.,Viajó a Estados Unidos
 2020-03-26,Buenos Aires,hombre,89,,,
 2020-03-26,Buenos Aires,hombre,78,,,
-2020-03-26,CABA,mujer,,,,SI
-2020-03-27,,hombre,81,,,SI
-2020-03-27,,hombre,73,,,SI
-2020-03-27,,mujer,72,,,En estudio
-2020-03-27,,hombre,59,importado,Viajó a Italia,
-2020-03-27,,hombre,70,importado,Viajó a Estados Unidos,
-2020-03-28,Buenos Aires,hombre,51,importado,Viajó a España. Vive en Mar del Plata,NO. Ciudad Mar del Plata
-2020-03-28,CABA,mujer,84,local,Contacto viajó a Italia,NO
-2020-03-29,,hombre,58,local,,Enfermedad pulmonar obstructiva crónica
+2020-03-26,CABA,mujer,,,SI,
+2020-03-27,,hombre,81,,SI,
+2020-03-27,,hombre,73,,SI,
+2020-03-27,,mujer,72,,En estudio,
+2020-03-27,,hombre,59,importado,,Viajó a Italia
+2020-03-27,,hombre,70,importado,,Viajó a Estados Unidos
+2020-03-28,Buenos Aires,hombre,51,importado,NO.,Viajó a España. Vive en Mar del Plata
+2020-03-28,CABA,mujer,84,local,NO,Contacto viajó a Italia
+2020-03-29,,hombre,58,local,Enfermedad pulmonar obstructiva crónica,
 2020-03-29,Tucumán,hombre,50,,,
 2020-03-30,Buenos Aires,hombre,67,,,
 2020-03-30,Buenos Aires,hombre,58,,,
@@ -28,7 +28,7 @@ fecha,provincia,genero,edad,tipo_caso,viajes_o_relacion_con_el_exterior,comorbil
 2020-03-31,Córdoba,mujer,89,,,
 2020-04-01,CABA,hombre,55,,,
 2020-04-01,Buenos Aires,hombre,71,,,
-2020-04-01,Santa Fe,hombre,66,,Nacionalidad chilena,
+2020-04-01,Santa Fe,hombre,66,,,Nacionalidad chilena
 2020-04-01,Neuquén,hombre,78,,,
 2020-04-01,Buenos Aires,mujer,63,,,
 2020-04-01,Mendoza,hombre,73,,,
@@ -41,7 +41,7 @@ fecha,provincia,genero,edad,tipo_caso,viajes_o_relacion_con_el_exterior,comorbil
 2020-04-03,Buenos Aires,hombre,87,,,
 2020-04-03,Buenos Aires,hombre,72,,,
 2020-04-03,Chaco,hombre,60,,,
-2020-04-03,Mendoza,hombre,76,,Nacionalidad española,
+2020-04-03,Mendoza,hombre,76,,,Nacionalidad española
 2020-04-03,Buenos Aires,mujer,54,,,
 2020-04-04,Buenos Aires,hombre,73,,,
 2020-04-05,CABA,hombre,89,,,
@@ -81,8 +81,8 @@ fecha,provincia,genero,edad,tipo_caso,viajes_o_relacion_con_el_exterior,comorbil
 2020-04-09,Chaco,hombre,70,,,
 2020-04-09,Santa Fe,hombre,64,,,
 2020-04-10,CABA,mujer,87,,,
-2020-04-10,Río Negro,hombre,66,,,
-2020-04-10,Buenos Aires,hombre,67,,,
+2020-04-10,Río Negro,hombre,66,,,Residía en Cipoletti
+2020-04-10,Buenos Aires,hombre,67,,,Pilar. Domicilio registrado en Tierra del Fuego.
 2020-04-11,CABA,mujer,71,,,
 2020-04-11,Buenos Aires,mujer,82,,,
 2020-04-11,CABA,hombre,69,,,
@@ -91,7 +91,7 @@ fecha,provincia,genero,edad,tipo_caso,viajes_o_relacion_con_el_exterior,comorbil
 2020-04-11,Buenos Aires,hombre,79,,,
 2020-04-11,Buenos Aires,hombre,62,,,
 2020-04-12,Buenos Aires,mujer,65,,,
-2020-04-12,Buenos Aires,mujer,67,,,
+2020-04-12,Buenos Aires,mujer,67,local,Asma y Diabetes. Hospitalizada el 27 de marzo en un hospital de Pilar con diagnóstico y mala evolución de neumonía.,"Comuna de Moreno. Segundo fallecimiento en ese municipio, después de que un vecino que había llegado de Estados Unidos infectado sin síntomas y no respetó el aislamiento, fuera a un cumpleaños de 15 y contagiara al menos a 20 personas."
 2020-04-12,Buenos Aires,mujer,77,,,
 2020-04-12,Córdoba,hombre,80,,,
 2020-04-12,Buenos Aires,hombre,90,,,
@@ -231,7 +231,7 @@ fecha,provincia,genero,edad,tipo_caso,viajes_o_relacion_con_el_exterior,comorbil
 2020-05-02,Buenos Aires,mujer,57,,,
 2020-05-02,Buenos Aires,mujer,93,,,
 2020-05-02,CABA,mujer,83,,,
-2020-05-02,CABA,mujer,84,,,
+2020-05-02,CABA,mujer,84,,,Primer deceso en la Villa 31
 2020-05-02,CABA,mujer,91,,,
 2020-05-02,Chaco,mujer,55,,,
 2020-05-02,CABA,hombre,87,,,
@@ -244,5 +244,5 @@ fecha,provincia,genero,edad,tipo_caso,viajes_o_relacion_con_el_exterior,comorbil
 2020-05-03,Buenos Aires,mujer,71,,,
 2020-05-03,CABA,mujer,93,,,
 2020-05-03,Río Negro,hombre,76,,,
-2020-05-03,Córdoba,hombre,88,,Nacionalidad paraguaya,
+2020-05-03,Córdoba,hombre,88,,,Nacionalidad paraguaya
 2020-05-03,Córdoba,hombre,77,,,
