@@ -1,12 +1,11 @@
 # Datos-Covid19-Argentina
 
 Los datos presentes en esta base de datos se basan principalmente en los 
-informes diarios, matutinos y vespertinos, que emite el gobierno nacional.
-Puede consultar los mismos en:
+informes diarios, matutinos y vespertinos, que emite el gobierno nacional. 
+Y se actualiza diariamente con cada nuevo informe publicado. 
+Puede consultar los mismos en: 
 
 https://www.argentina.gob.ar/coronavirus/informe-diario
-
-Se actualiza diariamente con cada nuevo informe publicado.
 
 La base de datos está compuesta de los siguientes archivos:
 
@@ -14,7 +13,7 @@ La base de datos está compuesta de los siguientes archivos:
 + **Argentina-covid19-por-provincia.csv**
 + **Argentina-covid19-muertes.csv**
 
-El primer data set, Argentina-covid19.csv, contiene las siguientes variables:
+El primer dataset, Argentina-covid19.csv, contiene las siguientes variables:
 
 + *fecha*: Fecha de los datos reportados
 + *casos_nuevos*: Casos nuevos del día
