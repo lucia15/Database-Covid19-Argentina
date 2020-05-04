@@ -78,52 +78,67 @@ nos proponemos trabajar las 5 tareas descriptas a continuación.
 # Práctico 1: Análisis y Visualización
 
 ### Objetivos: 
-Uso de estadísticas descriptivas para el análisis del set de datos, 
-responder a distintas preguntas generales respecto al dataset, por ejemplo:
+Uso de estadísticas descriptivas para el análisis del set de datos. 
+Responder a distintas preguntas generales respecto al dataset, por ejemplo:
 
-+ Cantidad de infectados (nuevos y totales), recuperados, fallecidos por país por día
-+ Distribución etaria de los infectados y fallecidos
++ Cantidad de infectados (nuevos y totales), recuperados, fallecidos por región (país o provincia) por día
 + Proporción de casos importados, locales y comunitarios en Argentina
-+ Clasificación por género y posibles diferencias del impacto del virus en cada uno
 + Diferencia entre las distintas provincias en el caso de Argentina
-+ Tasa de mortalidad por país y por provincia (Argentina)
-+ Testeos, cantidad cada 100 mil habitantes, proporción positivos/negativos, 
++ Cantidad de testeos cada 100 mil habitantes, proporción positivos/negativos, 
 negativos acumulados
+
++ Tasa de mortalidad por país y por provincia (Argentina)
 + Tasas de contagio, testeo, mortalidad, hospitalización, recuperación
-+ Correlación entre mortalidad y distintas comorbilidades
 
-Análisis probabilístico de distintas variable, por ejemplo:
+Correlación entre dos o más variables, por ejemplo:
++ Entre mortalidad y distintas comorbilidades
 
+Distribución de alguna variable de interés, por ejemplo:
++ Distribución etaria de los infectados y fallecidos
++ Clasificación por género y posibles diferencias del impacto del virus en cada uno
+
+Análisis probabilístico de distintas variables, por ejemplo:
 +
 
 # Práctico 2: Análisis y Curación
 
-### Objetivos:
+### Objetivos: 
+
+Procesar el conjunto de datos para poder utilizarlos en el análisis exploratorio de los mismos. Tener en cuenta:
 
 + Datos faltantes, datos nulos, ¿los eliminamos? ¿nos dicen algo? ¿podemos completarlos?
-+ Consistencia de los datos, información contradictoria
++ Consistencia de los datos, ¿existe información contradictoria?
++ Outliers, ¿tenemos?, ¿cómo los tratamos?
 
 # Práctico 3: Introducción al Machine Learning
 
 ### Objetivos:
+En este práctico utilizaremos algunos algoritmos básicos de aprendizaje automático para intentar encontrar patrones en los datos, y evaluaremos los resultados usando métricas estándares para cada tipo de problema.
 
-+ Intentaremos responder a la siguiente pregunta: ¿Es posible predecir la cantidad 
-de infectados que tendrá una región (país o provincia) en base a los datos que se 
+El objetivo del práctico es que pensemos en las distintas formas que puede tomar el modelado de un problema con datos, y en el trabajo de selección de features que debe realizarse para poder abordarlo.
+
+Para ello intentaremos responder la siguiente pregunta:
+
+¿Es posible predecir la cantidad de infectados que tendrá una región (país o provincia) en base a los datos que se 
 encuentran presentes en este dataset?
-+ También se podría hacer un k-means clustering para clasificar los países 
-(o regiones) según alguna(s) variables de interés.
+
+Tener en cuenta los siguientes lineamientos: 
+
++ Deben decidir a partir de qué valor de una métrica determinada consideran aceptable el resultado. Esto lo tienen que hacer antes de empezar a entrenar un modelo.
++ Deberán trabajar con el problema de dos maneras diferentes: como un problema de regresión, y como un problema de clasificación.
++ A la hora de hacer selección de variables, tengan en cuenta que los modelos de Machine Learning solo reciben inputs numéricos.
++ Es importante que almacenen los resultados de alguna manera para poder comparar los distintos modelos. Recomendación: crear una función para almacenar resultados en un dataframe de pandas e imprimirlos en pantalla
 
 # Práctico 4: Aprendizaje Supervisado
 
 ### Objetivos:
 
-+ Profundizar modelo predictivo
+Profundizar el trabajo realizado en el práctico anterior. Intentaremos mejorar los resultados iterando sobre la ingeniería de atributos, el modelado, y el análisis de la salida de los modelos.
 
 # Práctico 5: Aprendizaje No Supervisado
 
 ### Objetivos:
-
-+ Profundizar k-means clustering
+Realizar un k-means clustering para clasificar los países (o regiones) según alguna(s) variable(s) de interés.
 
 
 
