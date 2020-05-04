@@ -38,8 +38,9 @@ El primer data set, Argentina-covid19.csv, contiene las siguientes variables:
 + *alta_definitiva*: Cantidad de altas que son definitivas
 + *descartados_nuevos*:	Cantidad de casos sospechosos descartados en el día
 + *descartados_total*: Cantidad de casos sospechosos descartados hasta el momento
-+ *tests_realizados_total*:	Cantidad de tests realizados hasta el momento
 + *tests_realizados_nuevos*: Cantidad de tests realizados en el día
++ *tests_realizados_total*:	Cantidad de tests realizados hasta el momento
++ *test_por_millon_hab*: Cantidad de tests realizados por millón de habitantes
 + *observaciones*: Información relevante del día de la fecha
 
 El archivo Argentina-covid19-por-provincia.csv contiene información 
@@ -71,29 +72,54 @@ del fallecido o sus allegados (en caso de tratarse de un caso local) y otras obs
 
 ________________________________________________________________________________
 
+Con esta base de datos (y posiblemente con datos internacionales agregados de alguna otra),
+nos proponemos trabajar las 5 tareas descriptas a continuación.
+
 # Práctico 1: Análisis y Visualización
 
 ### Objetivos:
+
++ Cantidad de infectados (nuevos y totales), recuperados, fallecidos por país por día
++ Distribución etaria de los infectados y fallecidos
++ Proporción de casos importados, locales y comunitarios en Argentina
++ Clasificación por género y posibles diferencias del impacto del virus en cada uno
++ Diferencia entre las distintas provincias en el caso de Argentina
++ Tasa de mortalidad por país y por provincia (Argentina)
++ Testeos, cantidad cada 100 mil habitantes, proporción positivos/negativos, 
+negativos acumulados
++ Tasas de contagio, testeo, mortalidad, hospitalización, recuperación
++ Correlación entre mortalidad y distintas comorbilidades
 
 # Práctico 2: Análisis y Curación
 
 ### Objetivos:
 
++ Datos faltantes, datos nulos, ¿los eliminamos? ¿nos dicen algo? ¿podemos completarlos?
++ Consistencia de los datos, información contradictoria
+
 # Práctico 3: Introducción al Machine Learning
 
 ### Objetivos:
+
++ Intentaremos responder a la siguiente pregunta: ¿Es posible predecir la cantidad 
+de infectados que tendrá una región (país o provincia) en base a los datos que se 
+encuentran presentes en este dataset?
++ También se podría hacer un k-means clustering para clasificar los países 
+(o regiones) según alguna(s) variables de interés.
 
 # Práctico 4: Aprendizaje Supervisado
 
 ### Objetivos:
 
++ Profundizar modelo predictivo
+
 # Práctico 5: Aprendizaje No Supervisado
+
++ Profundizar k-means clustering
 
 ### Objetivos:
 
-
-
-
+________________________________________________________________________________
 
 # Licencia
 
