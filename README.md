@@ -41,6 +41,7 @@ El primer dataset, Argentina-covid19.csv, contiene las siguientes variables:
 + *tests_realizados_total*:	Cantidad de tests realizados hasta el momento
 + *test_por_millon_hab*: Cantidad de tests realizados por millón de habitantes
 + *observaciones*: Información relevante del día de la fecha
++ *represion*: Información sobre detenciones, notificaciones, resgistro y secuestro de vehículos
 
 El archivo Argentina-covid19-por-provincia.csv contiene información 
 sobre las 23 provincias Argentinas y de la Ciudad Autónoma de Buenos Aires (CABA),
@@ -56,6 +57,7 @@ sus variables son:
 + *importados_total*: Cantidad de casos que son importados del total de casos
 + *local_nuevos*: Contagiados que son contactos estrechos de casos confirmados del día
 + *observaciones*: Información relevante sobre la situación en la provincia al día de la fecha 
++ *represion*: Información sobre detenciones, notificaciones, resgistro y secuestro de vehículos
 
 En Argentina-covid19-muertes.csv, tenemos un registro por cada fallecido por Coronavirus en el país.
 Las variables consideradas son:
@@ -65,9 +67,9 @@ Las variables consideradas son:
 + *genero*:	Identidad de género del/a fallecido/a
 + *edad*: Edad del fallecido	
 + *tipo_caso*: Caso importado, local/conglomerado (contacto estrecho de un importado) o de contagio comunitario
-+ *viajes_o_relacion_con_el_exterior*: Información sobre viajes al exterior 
++ *comorbilidad_y_observaciones*: comorbilidades y otras observaciones de interés
++ *viajes_u_observaciones*: Información sobre viajes al exterior 
 del fallecido o sus allegados (en caso de tratarse de un caso local) y otras observaciones de interés
-+ *comorbilidad_observaciones*: comorbilidades y otras observaciones de interés
 
 ________________________________________________________________________________
 
