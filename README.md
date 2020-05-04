@@ -1,8 +1,8 @@
 # Datos-Covid19-Argentina
 
 Los datos presentes en esta base de datos se basan principalmente en los 
-informes diarios, matutinos y vespertinos, que emite el gobierno nacional. 
-Y se actualiza diariamente con cada nuevo informe publicado. 
+informes diarios, matutinos y vespertinos, que emite el gobierno nacional, 
+y se actualiza diariamente con cada nuevo informe publicado. 
 Puede consultar los mismos en: 
 
 https://www.argentina.gob.ar/coronavirus/informe-diario
