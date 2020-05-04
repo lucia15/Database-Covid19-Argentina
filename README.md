@@ -77,7 +77,9 @@ nos proponemos trabajar las 5 tareas descriptas a continuación.
 
 # Práctico 1: Análisis y Visualización
 
-### Objetivos:
+### Objetivos: 
+Uso de estadísticas descriptivas para el análisis del set de datos, 
+responder a distintas preguntas generales respecto al dataset, por ejemplo:
 
 + Cantidad de infectados (nuevos y totales), recuperados, fallecidos por país por día
 + Distribución etaria de los infectados y fallecidos
@@ -89,6 +91,10 @@ nos proponemos trabajar las 5 tareas descriptas a continuación.
 negativos acumulados
 + Tasas de contagio, testeo, mortalidad, hospitalización, recuperación
 + Correlación entre mortalidad y distintas comorbilidades
+
+Análisis probabilístico de distintas variable, por ejemplo:
+
++
 
 # Práctico 2: Análisis y Curación
 
@@ -115,9 +121,11 @@ encuentran presentes en este dataset?
 
 # Práctico 5: Aprendizaje No Supervisado
 
+### Objetivos:
+
 + Profundizar k-means clustering
 
-### Objetivos:
+
 
 ________________________________________________________________________________
 
