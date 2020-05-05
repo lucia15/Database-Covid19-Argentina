@@ -246,3 +246,6 @@ fecha,provincia,genero,edad,tipo_caso,comorbilidad_y_observaciones,viajes_u_obse
 2020-05-03,Río Negro,hombre,76,,,
 2020-05-03,Córdoba,hombre,88,,,Nacionalidad paraguaya
 2020-05-03,Córdoba,hombre,77,,,
+2020-05-04,Buenos Aires,hombre,53,,,
+2020-05-04,CABA,mujer,94,,,
+2020-05-04,Córdoba,mujer,91,,,
