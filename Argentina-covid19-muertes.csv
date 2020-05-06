@@ -262,3 +262,5 @@ fecha,provincia,genero,edad,tipo_caso,comorbilidad_y_observaciones,viajes_u_obse
 2020-05-04,Chaco,hombre,72,,,
 2020-05-05,Córdoba,hombre,75,,,
 2020-05-05,Buenos Aires,mujer,75,,,
+2020-05-05,Córdoba,hombre,76,,,
+2020-05-05,CABA,mujer,76,,,
