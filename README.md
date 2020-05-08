@@ -55,20 +55,20 @@ sus variables son:
 + *muertes_nuevos*:	Cantidad de fallecidos del día en la Provincia
 + *importados_nuevos*: Cantidad de casos que son importados de los casos nuevos del día
 + *importados_total*: Cantidad de casos que son importados del total de casos
-+ *local_nuevos*: Contagiados que son contactos estrechos de casos confirmados del día
-+ *observaciones*: Información relevante sobre la situación en la provincia al día de la fecha 
-+ *represion*: Información sobre detenciones, notificaciones, resgistro y secuestro de vehículos
++ *observaciones*: Información relevante sobre la situación en la provincia al día de la fecha. 
+Información sobre detenciones, notificaciones, resgistro y secuestro de vehículos
 
 En Argentina-covid19-muertes.csv, tenemos un registro por cada fallecido por Coronavirus en el país.
 Las variables consideradas son:
 
 + *fecha*: Día del deceso 
-+ *provincia*: Provincia de residencia del fallecido	
++ *provincia*: Provincia de residencia del fallecido
++ *num_caso*: Contador de casos	
 + *genero*:	Identidad de género del/a fallecido/a
 + *edad*: Edad del fallecido	
 + *tipo_caso*: Caso importado, local/conglomerado (contacto estrecho de un importado) o de contagio comunitario
-+ *comorbilidad_y_observaciones*: comorbilidades y otras observaciones de interés
-+ *viajes_u_observaciones*: Información sobre viajes al exterior 
++ *comorbilidad*: comorbilidades y otras observaciones de interés
++ *viajes*: Información sobre viajes al exterior 
 del fallecido o sus allegados (en caso de tratarse de un caso local) y otras observaciones de interés
 
 ________________________________________________________________________________
