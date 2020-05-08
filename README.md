@@ -121,7 +121,7 @@ Para ello intentaremos responder la siguiente pregunta:
 ¿Es posible predecir la cantidad de infectados que tendrá una región (país o provincia) en base a los datos que se 
 encuentran presentes en este dataset?
 
-Una forma puede ser estimar el R0 (número básico de reproducción de una epidemia) o el Rt (número de reproducción efectivo).
+Una forma de hacer esto puede ser estimar el R0 (número básico de reproducción de una epidemia) o el Rt (número de reproducción efectivo).
 
 El número básico de reproducción de una epidemia R0 es la tasa de reproducción del virus. 
 Se define como el número de infecciones secundarias producidas por una sola infección. 
@@ -132,7 +132,7 @@ Mientras que R0 es un valor estático, el número de reproducción efectivo Rt e
 el número promedio de personas que infectará una persona infectada en el momento t.
 
 
-Tener en cuenta los siguientes lineamientos: 
+Al probar modelos de Machine Learning tener en cuenta los siguientes lineamientos: 
 
 + Deben decidir a partir de qué valor de una métrica determinada consideran aceptable el resultado. Esto lo tienen que hacer antes de empezar a entrenar un modelo.
 + Deberán trabajar con el problema de dos maneras diferentes: como un problema de regresión, y como un problema de clasificación.
