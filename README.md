@@ -106,8 +106,8 @@ Estudiar la distribución de alguna variable de interés, por ejemplo:
 Procesar el conjunto de datos para poder utilizarlos en el análisis exploratorio de los mismos. Tener en cuenta:
 
 + Datos faltantes, datos nulos, ¿los eliminamos? ¿nos dicen algo? ¿podemos completarlos?
-+ Consistencia de los datos, ¿existe información contradictoria?
-+ Outliers, ¿tenemos?, ¿cómo los tratamos?
++ Consistencia de los datos, ¿existe información contradictoria? ¿Qué hacemos si la hay?
++ Outliers, ¿tenemos?, ¿cómo los tratamos? 
 
 # Práctico 3: Introducción al Machine Learning
 
