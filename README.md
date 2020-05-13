@@ -16,6 +16,7 @@ La base de datos está compuesta de los siguientes archivos:
 El primer dataset, Argentina-covid19.csv, contiene las siguientes variables:
 
 + *fecha*: Fecha de los datos reportados
++ *dia_cuarentena*: día de cuatentena desde la resolución del DNU 260
 + *casos_nuevos*: Casos nuevos del día
 + *casos_total*: Total de casos hasta el momento	
 + *%mujer*:	Porcentaje de mujeres del total de casos hasta el momento
@@ -28,9 +29,10 @@ El primer dataset, Argentina-covid19.csv, contiene las siguientes variables:
 + *importados_nuevos*: Cantidad de casos que son importados de los casos nuevos del día	
 + *local_total*: Total de contagiados que son contactos estrechos de casos confirmados
 + *local_nuevos*: Contagiados que son contactos estrechos de casos confirmados del día
++ *comunitario_total*: Cantidad de contagios comunitarios del total de casos
++ *comunitario_nuevos*: Cantidad de casos que son de contagio comunitario de los casos nuevos del día	
 + *en_investigacion_total*:	Cantidad de casos que se encuentra en investigación epidemiológica
 + *en_investigacion_nuevos*: Casos que se encuentra en investigación epidemiológica del día
-+ *comunitario_total*: Cantidad de contagios comunitarios del total de casos
 + *muertes_total*: Cantidad de fallecidos hasta el momento
 + *muertes_nuevos*:	Cantidad de fallecidos del día
 + *alta_total*:	Cantidad de casos que fueron dados de alta (recuperados) hasta el momento
@@ -53,8 +55,6 @@ sus variables son:
 + *casos_nuevos*: Casos nuevos del día en la provincia
 + *muertes_total*: Cantidad de fallecidos hasta el momento en la Provincia
 + *muertes_nuevos*:	Cantidad de fallecidos del día en la Provincia
-+ *importados_nuevos*: Cantidad de casos que son importados de los casos nuevos del día
-+ *importados_total*: Cantidad de casos que son importados del total de casos
 + *observaciones*: Información relevante sobre la situación en la provincia al día de la fecha. 
 Información sobre detenciones, notificaciones, resgistro y secuestro de vehículos
 
@@ -139,10 +139,6 @@ Al probar modelos de Machine Learning tener en cuenta los siguientes lineamiento
 + A la hora de hacer selección de variables, tengan en cuenta que los modelos de Machine Learning solo reciben inputs numéricos.
 + Es importante que almacenen los resultados de alguna manera para poder comparar los distintos modelos. Recomendación: crear una función para almacenar resultados en un dataframe de pandas e imprimirlos en pantalla
 
-
-
-
-
 # Práctico 4: Aprendizaje Supervisado
 
 ### Objetivos:
@@ -153,8 +149,6 @@ Profundizar el trabajo realizado en el práctico anterior. Intentaremos mejorar 
 
 ### Objetivos:
 Realizar un k-means clustering para clasificar los países (o regiones) según alguna(s) variable(s) de interés.
-
-
 
 ________________________________________________________________________________
 
