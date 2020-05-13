@@ -36,11 +36,12 @@ El primer dataset, Argentina-covid19.csv, contiene las siguientes variables:
 + *muertes_total*: Cantidad de fallecidos hasta el momento
 + *muertes_nuevos*:	Cantidad de fallecidos del día
 + *alta_total*:	Cantidad de casos que fueron dados de alta (recuperados) hasta el momento
++ *alta_nuevos*: Cantidad de altas del día
 + *alta_definitiva*: Cantidad de altas que son definitivas
-+ *descartados_nuevos*:	Cantidad de casos sospechosos descartados en el día
 + *descartados_total*: Cantidad de casos sospechosos descartados hasta el momento
-+ *tests_realizados_nuevos*: Cantidad de tests realizados en el día
++ *descartados_nuevos*:	Cantidad de casos sospechosos descartados en el día
 + *tests_realizados_total*:	Cantidad de tests realizados hasta el momento
++ *tests_realizados_nuevos*: Cantidad de tests realizados en el día
 + *test_por_millon_hab*: Cantidad de tests realizados por millón de habitantes
 + *observaciones*: Información relevante del día de la fecha
 + *represion*: Información sobre detenciones, notificaciones, resgistro y secuestro de vehículos
