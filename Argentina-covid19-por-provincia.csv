@@ -1,4 +1,4 @@
-fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observaciones
+provincia,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observaciones
 2020-03-05,CABA,1,1,0,0,El caso es importado
 2020-03-06,CABA,2,1,0,0,El nuevo caso es importado
 2020-03-07,Buenos Aires,1,1,,,
@@ -1251,3 +1251,25 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-05-13,Santiago del Estero,16,0,0,0,
 2020-05-13,Tierra del Fuego,148,0,0,0,
 2020-05-13,Tucumán,42,0,4,0,
+2020-05-14,Buenos Aires,2411,79,148,11,
+2020-05-14,CABA,2618,153,131,10,
+2020-05-14,Chaco,513,9,23,1,
+2020-05-14,Chubut,4,0,0,0,
+2020-05-14,Córdoba,366,5,23,1,
+2020-05-14,Corrientes,79,3,0,0,
+2020-05-14,Entre Ríos,30,1,0,0,
+2020-05-14,Jujuy,5,0,0,0,
+2020-05-14,La Pampa,5,0,0,0,
+2020-05-14,La Rioja,60,0,11,0,
+2020-05-14,Mendoza,88,0,10,0,
+2020-05-14,Misiones,25,0,1,0,
+2020-05-14,Neuquén,114,1,5,0,
+2020-05-14,Río Negro,298,4,12,1,
+2020-05-14,Salta,5,0,0,0,
+2020-05-14,San Juan,3,0,0,0,
+2020-05-14,San Luis,11,0,0,0,
+2020-05-14,Santa Cruz,49,0,0,0,
+2020-05-14,Santa Fe,244,0,3,0,
+2020-05-14,Santiago del Estero,16,0,0,0,
+2020-05-14,Tierra del Fuego,148,0,0,0,
+2020-05-14,Tucumán,42,0,4,0,

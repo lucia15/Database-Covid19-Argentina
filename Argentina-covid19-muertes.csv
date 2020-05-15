@@ -2,11 +2,11 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes
 2020-03-09,CABA,1,hombre,64,importado,,Francia
 2020-03-13,Chaco,2,hombre,61,importado,"Trabajador de la salud, diagnosticado el 2020-03-12",Europa
 2020-03-19,CABA,3,hombre,64,local,,Contacto estrecho
-2020-03-21,Buenos Aires,4,mujer,67,importado,"Obesidad, enfermedad pulmonar obstructiva cronica","Republica Dominicana, crucero Caribe, 29/2 al 12/3"
+2020-03-21,Buenos Aires,4,mujer,67,importado,"Obesidad, enfermedad pulmonar obstructiva crónica","República Dominicana, crucero Caribe, 29/2 al 12/3"
 2020-03-24,,5,hombre,71,importado,"Diabetes, obesidad",España
 2020-03-24,Chaco,6,hombre,53,local,,Contacto estrecho
-2020-03-25,CABA,7,mujer,81,local,Enfermedad neurologica cronica,Contacto estrecho
-2020-03-25,Chaco,8,mujer,73,,"Diabetes, hipertension, obesidad",
+2020-03-25,CABA,7,mujer,81,local,Enfermedad neurológica crónica,Contacto estrecho
+2020-03-25,Chaco,8,mujer,73,,"Diabetes, hipertensión, obesidad",
 2020-03-26,Chaco,9,hombre,59,importado,En estudio,Estados Unidos
 2020-03-26,Buenos Aires,10,hombre,89,,,
 2020-03-26,Buenos Aires,11,hombre,78,,,
@@ -16,9 +16,9 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes
 2020-03-27,,15,mujer,72,,En estudio,
 2020-03-27,,16,hombre,59,importado,,Italia
 2020-03-27,,17,hombre,70,importado,,Estados Unidos
-2020-03-28,Buenos Aires,18,hombre,51,importado,NO,España y Egipto. Vivia en Mar del Plata
+2020-03-28,Buenos Aires,18,hombre,51,importado,NO,España y Egipto. Vivía en Mar del Plata
 2020-03-28,CABA,19,mujer,84,local,NO,Contacto viajo a Italia
-2020-03-29,Buenos Aires,20,hombre,58,local,"Enfermedad pulmonar obstructiva cronica, EPOC",
+2020-03-29,Buenos Aires,20,hombre,58,local,"Enfermedad pulmonar obstructiva crónica, EPOC",
 2020-03-30,Buenos Aires,21,hombre,67,,,
 2020-03-30,Buenos Aires,22,hombre,58,importado,,Europa
 2020-03-30,Tucuman,23,mujer,77,,,
@@ -79,7 +79,7 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes
 2020-04-09,Chaco,78,hombre,70,,,
 2020-04-09,Santa Fe,79,hombre,64,,,
 2020-04-10,CABA,80,mujer,87,,,
-2020-04-10,Rio Negro,81,hombre,66,,,Residia en Cipoletti
+2020-04-10,Rio Negro,81,hombre,66,,,Residía en Cipoletti
 2020-04-10,Buenos Aires,82,hombre,67,,"Diabetes, asma",Pilar. Domicilio registrado en Tierra del Fuego.
 2020-04-11,CABA,83,mujer,71,,,
 2020-04-11,Buenos Aires,84,mujer,82,,,
@@ -89,7 +89,7 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes
 2020-04-11,Buenos Aires,88,hombre,79,,,
 2020-04-11,Buenos Aires,89,hombre,62,,,
 2020-04-12,Buenos Aires,90,mujer,65,,,
-2020-04-12,Buenos Aires,91,mujer,67,local,"Diabetes, asma. Hospitalizada el 27 de marzo en Pilar con diagnostico y mala evolucion de neumonia.","Comuna de Moreno. 2do fallecimiento en ese municipio. Un vecino llegado de Estados Unidos infectado sin sintomas, no respeto el aislamiento, en un cumpleaños de 15 y contagia al menos a 20 personas."
+2020-04-12,Buenos Aires,91,mujer,67,local,"Diabetes, asma. Hospitalizada el 27 de marzo en Pilar con diagnostico y mala evolución de neumonía.","Comuna de Moreno. 2do fallecimiento en ese municipio. Un vecino llegado de Estados Unidos infectado sin sintomas, no respeto el aislamiento, en un cumpleaños de 15 y contagia al menos a 20 personas."
 2020-04-12,Buenos Aires,92,mujer,77,,,
 2020-04-12,Cordoba,93,hombre,80,,,
 2020-04-12,Buenos Aires,94,hombre,90,,,
@@ -343,3 +343,12 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes
 2020-05-14,CABA,342,hombre,66,,,
 2020-05-14,CABA,343,hombre,69,,,
 2020-05-14,CABA,344,hombre,77,,,
+2020-05-14,Buenos Aires,345,hombre,48,,,
+2020-05-14,Buenos Aires,346,hombre,73,,,
+2020-05-14,Buenos Aires,347,hombre,62,,,
+2020-05-14,Buenos Aires,348,hombre,31,,,
+2020-05-14,Chaco,349,hombre,35,,,
+2020-05-14,Rio Negro,350,hombre,65,,,
+2020-05-14,CABA,351,hombre,77,,,
+2020-05-14,Buenos Aires,352,mujer,83,,,
+2020-05-14,Córdoba,353,mujer,90,,,
