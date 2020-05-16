@@ -669,7 +669,7 @@ provincia,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observ
 2020-04-17,La Rioja,35,1,3,1,
 2020-04-17,Mendoza,69,1,8,2,
 2020-04-17,Misiones,4,1,0,0,
-2020-04-17,Neuquén,93,1,4,0,"Este caso corresponde a un caso antiguo que fue cargado por error como otro Coronavirus, y que en el dia de hoy se reclasifico."
+2020-04-17,Neuquén,93,1,4,0,"Este caso corresponde a un caso antiguo que fue cargado por error como otro Coronavirus, y que en el día de hoy se reclasificó."
 2020-04-17,Río Negro,116,1,3,0,
 2020-04-17,Salta,3,0,0,0,
 2020-04-17,San Juan,2,0,0,0,
@@ -977,7 +977,7 @@ provincia,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observ
 2020-05-01,La Rioja,55,3,6,0,
 2020-05-01,Mendoza,84,1,10,0,
 2020-05-01,Misiones,12,0,1,0,
-2020-05-01,Neuquén,110,0,5,0,Neuquén reclasifico un caso descartado que figuraba como confirmado debido a un error de carga.
+2020-05-01,Neuquén,110,0,5,0,Neuquén reclasificó un caso descartado que figuraba como confirmado debido a un error de carga.
 2020-05-01,Río Negro,236,8,8,0,
 2020-05-01,Salta,4,0,0,0,
 2020-05-01,San Juan,2,0,0,0,
@@ -1273,3 +1273,25 @@ provincia,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observ
 2020-05-14,Santiago del Estero,16,0,0,0,
 2020-05-14,Tierra del Fuego,148,0,0,0,
 2020-05-14,Tucumán,42,0,4,0,
+2020-05-15,Buenos Aires,2497,86,150,2,
+2020-05-15,CABA,2833,214,131,0,"Un caso de la provincia de Entre Ríos, fue reclasificado a CABA."
+2020-05-15,Chaco,538,25,24,1,
+2020-05-15,Chubut,4,0,0,0,
+2020-05-15,Córdoba,369,3,23,0,
+2020-05-15,Corrientes,79,0,0,0,
+2020-05-15,Entre Ríos,29,0,0,0,"Un caso de la provincia de Entre Ríos, fue reclasificado a CABA."
+2020-05-15,Jujuy,5,0,0,0,
+2020-05-15,La Pampa,5,0,0,0,
+2020-05-15,La Rioja,60,0,11,0,
+2020-05-15,Mendoza,87,0,10,0,"Un caso de la provincia de Mendoza, fue reclasificado internamente."
+2020-05-15,Misiones,25,0,1,0,
+2020-05-15,Neuquén,114,0,5,0,
+2020-05-15,Río Negro,315,17,12,0,
+2020-05-15,Salta,5,0,0,0,
+2020-05-15,San Juan,3,0,0,0,
+2020-05-15,San Luis,11,0,0,0,
+2020-05-15,Santa Cruz,49,0,0,0,
+2020-05-15,Santa Fe,244,0,3,0,
+2020-05-15,Santiago del Estero,16,0,0,0,
+2020-05-15,Tierra del Fuego,148,0,0,0,
+2020-05-15,Tucumán,42,0,4,0,
