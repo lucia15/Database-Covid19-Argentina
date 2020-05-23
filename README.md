@@ -109,6 +109,16 @@ Procesar el conjunto de datos para poder utilizarlos en el análisis exploratori
 + Datos faltantes, datos nulos, ¿los eliminamos? ¿nos dicen algo? ¿podemos completarlos?
 + Consistencia de los datos, ¿existe información contradictoria? ¿Qué hacemos si la hay?
 + Outliers, ¿tenemos?, ¿cómo los tratamos? 
++ Indagar en la forma en que está presentada la información, ¿podríamos re organizarla de otra manera?
++ Considerar la posibilidad de crear nuevas variables (columnas) en base a las ya disponibles 
+(o quizás incorporando otra información). 
+Esto puede ser útil para algún análisis que nos propongamos hacer a futuro.
+
+
+Puesto que este dataset fue creado y es mantenido por una sola persona, 
+algunos de los incisos anteriores están orientados a mejorar la consistencia y calidad del mismo. 
+Una buena idea puede ser compararlo con otros dataset similares.
+
 
 # Práctico 3: Introducción al Machine Learning
 
