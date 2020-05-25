@@ -1,4 +1,4 @@
-fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes,Observaciones
+fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes,observaciones
 2020-03-09,CABA,1,hombre,64,importado,,Francia,
 2020-03-13,Chaco,2,hombre,61,importado,,Europa,"Trabajador de la salud, diagnosticado el 2020-03-12"
 2020-03-19,CABA,3,hombre,64,local,,Contacto estrecho,
@@ -89,7 +89,7 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes,Observacion
 2020-04-11,Buenos Aires,88,hombre,79,,,,
 2020-04-11,Buenos Aires,89,hombre,62,,,,
 2020-04-12,Buenos Aires,90,mujer,65,,,,
-2020-04-12,Buenos Aires,91,mujer,67,local,"Diabetes, asma. ",Contacto estrecho (Estados Unidos),"Hospitalizada el 27 de marzo en Pilar con diagnostico y mala evolución de neumonía. Comuna de Moreno. 2do fallecimiento en ese municipio. Un vecino llegado de Estados Unidos infectado sin síntomas, no respeto el aislamiento, en un cumpleaños de 15 y contagia al menos a 20 personas."
+2020-04-12,Buenos Aires,91,mujer,67,local,"Diabetes, asma. ",Contacto estrecho (Estados Unidos),Comuna de Moreno. Hospitalizada el 27/03 en Pilar con diagnostico y mala evolución de neumonía.
 2020-04-12,Buenos Aires,92,mujer,77,,,,
 2020-04-12,Córdoba,93,hombre,80,local,,,La Cumbre
 2020-04-12,Buenos Aires,94,hombre,90,,,,
