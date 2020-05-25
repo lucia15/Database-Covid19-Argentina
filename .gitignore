@@ -1,8 +1,9 @@
-# Ignoro archivo
+# Ignoro archivos
 Argentina-covid19-casos.csv
 Argentina-covid19-casos-total-por-provincia.csv
 represion.csv
 represion-provincias.csv
+Cordoba.csv
 
 # Ignorar archivos ocultos
 .~lock.Argentina-covid19.csv#
