@@ -11,7 +11,7 @@ La base de datos está compuesta de los siguientes archivos:
 
 + **Argentina-covid19.csv**
 + **Argentina-covid19-por-provincia.csv**
-+ **Argentina-covid19-muertes.csv**
++ **Argentina-covid19-fallecidos.csv**
 
 El primer dataset, Argentina-covid19.csv, contiene las siguientes variables:
 
@@ -44,7 +44,7 @@ El primer dataset, Argentina-covid19.csv, contiene las siguientes variables:
 + *tests_realizados_nuevos*: Cantidad de tests realizados en el día
 + *test_por_millon_hab*: Cantidad de tests realizados por millón de habitantes
 + *observaciones*: Información relevante del día de la fecha
-+ *represion*: Información sobre detenciones, notificaciones, resgistro y secuestro de vehículos
+
 
 El archivo Argentina-covid19-por-provincia.csv contiene información 
 sobre las 23 provincias Argentinas y de la Ciudad Autónoma de Buenos Aires (CABA),
@@ -57,9 +57,9 @@ sus variables son:
 + *muertes_total*: Cantidad de fallecidos hasta el momento en la Provincia
 + *muertes_nuevos*:	Cantidad de fallecidos del día en la Provincia
 + *observaciones*: Información relevante sobre la situación en la provincia al día de la fecha. 
-Información sobre detenciones, notificaciones, resgistro y secuestro de vehículos
 
-En Argentina-covid19-muertes.csv, tenemos un registro por cada fallecido por Coronavirus en el país.
+
+En Argentina-covid19-fallecidos.csv, tenemos un registro por cada fallecido por Coronavirus en el país.
 Las variables consideradas son:
 
 + *fecha*: Día del deceso 
@@ -68,9 +68,10 @@ Las variables consideradas son:
 + *genero*:	Identidad de género del/a fallecido/a
 + *edad*: Edad del fallecido	
 + *tipo_caso*: Caso importado, local/conglomerado (contacto estrecho de un importado) o de contagio comunitario
-+ *comorbilidad*: comorbilidades y otras observaciones de interés
++ *comorbilidades*: comorbilidades y otras observaciones de interés
 + *viajes*: Información sobre viajes al exterior 
-del fallecido o sus allegados (en caso de tratarse de un caso local) y otras observaciones de interés
+del fallecido o sus allegados (en caso de tratarse de un caso local)
++ *observaciones*: Otras observaciones de interés
 
 ________________________________________________________________________________
 
