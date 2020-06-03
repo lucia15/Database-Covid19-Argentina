@@ -369,7 +369,7 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes,observacion
 2020-05-17,Chaco,368,hombre,51,,,,
 2020-05-17,Buenos Aires,369,hombre,66,,,,
 2020-05-17,Córdoba,370,hombre,50,,SI,,Internado Hospital Italiano
-2020-05-17,CABA,371,mujer,42,,,,
+2020-05-17,CABA,371,mujer,42,,Diabetes ,,
 2020-05-17,CABA,372,mujer,91,,,,
 2020-05-17,Córdoba,373,mujer,71,,,,Internado Hospital Italiano
 2020-05-18,CABA,374,hombre,61,,,,
@@ -550,3 +550,7 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes,observacion
 2020-06-01,CABA,549,mujer,83,,,,
 2020-06-01,Chaco,550,mujer,14,,Enfermedad autoinmune,,
 2020-06-01,Buenos Aires,551,mujer,81,,,,
+2020-06-02,Chaco,552,hombre,64,,,,
+2020-06-02,Buenos Aires,553,mujer,39,,,,
+2020-06-02,Buenos Aires,554,mujer,94,,,,
+2020-06-02,Buenos Aires,555,mujer,88,,,,
