@@ -75,6 +75,16 @@ del fallecido o sus allegados (en caso de tratarse de un caso local)
 
 ________________________________________________________________________________
 
+Para ver los prácticos que se trabajarán en una de las mentorías de la 
+
+**Diplomatura en Ciencia de Datos, Aprendizaje Automático y sus Aplicaciones 2020**
+
+en base a este dataset dirigirse a:
+
+https://github.com/lucia15/Diplodatos2020-Practicos-Mentoria-Coronavirus
+
+________________________________________________________________________________
+
 # Licencia
 
 Esta base de datos se libera bajo una licencia Creative Commons Reconocimiento
