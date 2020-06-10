@@ -1,4 +1,4 @@
-provincia,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observaciones
+fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observaciones
 2020-03-05,CABA,1,1,0,0,El caso es importado
 2020-03-06,CABA,2,1,0,0,El nuevo caso es importado
 2020-03-07,Buenos Aires,1,1,,,
