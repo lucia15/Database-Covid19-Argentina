@@ -1005,3 +1005,8 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes,observacion
 2020-06-21,Río Negro,1004,hombre,56,,,,
 2020-06-21,Buenos Aires,1005,mujer,64,,,,
 2020-06-21,CABA,1006,,88,,,,Sin datos de género
+2020-06-22,Buenos Aires,1007,hombre,88,,,,
+2020-06-22,Buenos Aires,1008,hombre,76,,,,
+2020-06-22,CABA,1009,hombre,66,,,,
+2020-06-22,Río Negro,1010,hombre,76,,,,
+2020-06-22,CABA,1011,mujer,84,,,,
