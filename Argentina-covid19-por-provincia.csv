@@ -1019,7 +1019,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-05-03,Jujuy,5,0,0,0,
 2020-05-03,La Pampa,5,0,0,0,"San Juan, La Pampa y Chubut son las únicas provincias que presentan casos únicamente importados (Infobae)"
 2020-05-03,La Rioja,55,0,6,0,
-2020-05-03,Mendoza,84,0,10,0,"Mendoza reclasifico uno de sus casos que figuraba como confirmado, a descartado, por un error de carga"
+2020-05-03,Mendoza,84,0,10,0,"Reclasificó uno de sus casos que figuraba como confirmado, a descartado, por un error de carga"
 2020-05-03,Misiones,24,0,1,0,
 2020-05-03,Neuquén,110,0,5,0,
 2020-05-03,Río Negro,248,6,9,1,
@@ -1283,7 +1283,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-05-15,Jujuy,5,0,0,0,
 2020-05-15,La Pampa,5,0,0,0,
 2020-05-15,La Rioja,60,0,11,0,
-2020-05-15,Mendoza,87,0,10,0,"Un caso de la provincia de Mendoza, fue reclasificado internamente"
+2020-05-15,Mendoza,87,0,10,0,Un caso fue reclasificado internamente
 2020-05-15,Misiones,25,0,1,0,
 2020-05-15,Neuquén,114,0,5,0,
 2020-05-15,Río Negro,315,17,12,0,
@@ -2165,3 +2165,26 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-06-23,Santiago del Estero,22,0,0,0,
 2020-06-23,Tierra del Fuego,149,0,0,0,
 2020-06-23,Tucumán,59,0,5,0,
+2020-06-24,Buenos Aires,23163,1463,481,21,
+2020-06-24,CABA,21804,1012,440,11,
+2020-06-24,Chaco,1694,37,84,0,
+2020-06-24,Chubut,103,2,3,2,
+2020-06-24,Córdoba,601,2,36,0,
+2020-06-24,Corrientes,114,0,0,0,Dos casos fueron reclasificados a la Ciudad de Buenos Aires (CABA)
+2020-06-24,Entre Ríos,201,24,0,0,
+2020-06-24,Formosa,45,0,0,0,
+2020-06-24,Jujuy,44,26,1,0,
+2020-06-24,La Pampa,7,1,0,0,
+2020-06-24,La Rioja,72,7,12,0,
+2020-06-24,Mendoza,151,8,10,0,
+2020-06-24,Misiones,38,0,2,0,
+2020-06-24,Neuquén,364,12,11,1,
+2020-06-24,Río Negro,742,24,38,2,
+2020-06-24,Salta,25,3,0,0,
+2020-06-24,San Juan,8,0,0,0,
+2020-06-24,San Luis,11,0,0,0,
+2020-06-24,Santa Cruz,51,0,0,0,Un caso fue reclasificado a la provincia de Jujuy
+2020-06-24,Santa Fe,373,4,4,0,
+2020-06-24,Santiago del Estero,22,0,0,0,
+2020-06-24,Tierra del Fuego,149,0,1,1,
+2020-06-24,Tucumán,69,10,5,0,
