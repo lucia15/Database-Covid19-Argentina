@@ -12,6 +12,7 @@ La base de datos está compuesta de los siguientes archivos:
 + **Argentina-covid19.csv**
 + **Argentina-covid19-por-provincia.csv**
 + **Argentina-covid19-fallecidos.csv**
++ **Argentina-covid19-UTI.csv**
 
 El primer dataset, Argentina-covid19.csv, contiene las siguientes variables:
 
@@ -72,6 +73,15 @@ Las variables consideradas son:
 + *viajes*: Información sobre viajes al exterior 
 del fallecido o sus allegados (en caso de tratarse de un caso local)
 + *observaciones*: Otras observaciones de interés
+
+
+En Argentina-covid19-UTI.csv, se registra información relativa al uso de las Unidades de Terapia Intensiva (UTI),
+según la información reportada por las juridicciones. Las variables:
+
++ *fecha*: Día del reporte
++ *internados*: Cantidad de casos confirmados COVID-19 internados en UTI
++ *%Nacion*: Porcentaje ocupación total de camas UTI adulto en el territorio nacional
++ *%AMBA*: Porcentaje ocupación total de camas UTI adulto en el Área Metropolitana de Bs. As (AMBA)
 
 ________________________________________________________________________________
 
