@@ -94,7 +94,7 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes,observacion
 2020-04-12,Córdoba,93,hombre,80,local,,,La Cumbre
 2020-04-12,Buenos Aires,94,hombre,90,,,,
 2020-04-12,CABA,95,hombre,64,,,,
-2020-04-13,Córdoba,96,hombre,70,,"Obesidad, insuficiencia cardíaca, tabaquismo y bronquitis crónica",,Oriundo de Villa Parque Santa Ana. Según informe provincial tendría 78 años
+2020-04-13,Córdoba,96,hombre,70,,"Obesidad, insuficiencia cardíaca, tabaquismo y bronquitis crónica",,Oriundo de Villa Parque Santa Ana. Según reporte provincial tendría 78 años
 2020-04-13,CABA,97,hombre,86,,,,
 2020-04-13,Buenos Aires,98,mujer,75,,,,
 2020-04-14,CABA,99,hombre,75,,,,
@@ -235,7 +235,7 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes,observacion
 2020-05-02,Chaco,234,mujer,55,,,,
 2020-05-02,CABA,235,hombre,87,,,,
 2020-05-02,CABA,236,hombre,83,,,,
-2020-05-02,Córdoba,237,hombre,79,,,,Internado desde el 14/04
+2020-05-02,Córdoba,237,hombre,79,,,,Internación 14/04
 2020-05-03,Buenos Aires,238,hombre,75,,,,
 2020-05-03,CABA,239,mujer,99,,,,
 2020-05-03,Buenos Aires,240,mujer,87,,,,
@@ -247,7 +247,7 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes,observacion
 2020-05-03,Córdoba,246,hombre,77,importado,SI,República Dominicana,Internado en el Hospital Italiano desde el 04/04
 2020-05-04,Buenos Aires,247,hombre,53,,,,
 2020-05-04,CABA,248,mujer,94,,,,
-2020-05-04,Córdoba,249,mujer,91,,,,Internada desde el 20/04
+2020-05-04,Córdoba,249,mujer,91,,,,Internación 20/04
 2020-05-04,Buenos Aires,250,mujer,89,,,,
 2020-05-04,Buenos Aires,251,mujer,75,,,,
 2020-05-04,CABA,252,mujer,94,,,,
@@ -395,7 +395,7 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes,observacion
 2020-05-20,Buenos Aires,394,hombre,47,,,,
 2020-05-20,Buenos Aires,395,hombre,91,,,,
 2020-05-20,Buenos Aires,396,hombre,63,,,,
-2020-05-20,Córdoba,397,hombre,74,,SI,,"Internado Hospital Italiano desde 21/04, confirmado 30/04"
+2020-05-20,Córdoba,397,hombre,74,,SI,,Internado Hospital Italiano desde 21/04. Diagnóstico 30/04
 2020-05-20,Río Negro,398,hombre,83,,,,
 2020-05-20,Buenos Aires,399,mujer,75,,,,
 2020-05-20,Buenos Aires,400,mujer,91,,,,
@@ -420,7 +420,7 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes,observacion
 2020-05-22,CABA,419,mujer,83,,,,
 2020-05-22,CABA,420,hombre,71,,,,
 2020-05-22,CABA,421,hombre,80,,,,
-2020-05-22,Córdoba,422,hombre,80,,,,"Internado Hospital Italiano desde 29/04, confirmado 10/05"
+2020-05-22,Córdoba,422,hombre,80,,,,Internado Hospital Italiano desde 29/04. Diagnóstico 10/05
 2020-05-22,Buenos Aires,423,hombre,59,,,,
 2020-05-22,Chaco,424,hombre,56,,,,
 2020-05-22,Buenos Aires,425,mujer,83,,,,
@@ -465,7 +465,7 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes,observacion
 2020-05-25,Buenos Aires,464,hombre,87,,,,
 2020-05-25,Río Negro,465,mujer,61,,,,
 2020-05-25,Buenos Aires,466,mujer,76,,,,
-2020-05-25,Córdoba,467,mujer,64,,,,
+2020-05-25,Córdoba,467,mujer,64,,SI,,Internada Hospital Italiano desde 03/03 al 18/05. Diagnóstico 08/05
 2020-05-25,CABA,468,mujer,59,,,,
 2020-05-26,CABA,469,mujer,92,,,,
 2020-05-26,CABA,470,mujer,84,,,,
@@ -484,7 +484,7 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes,observacion
 2020-05-26,Buenos Aires,483,mujer,89,,,,
 2020-05-26,Buenos Aires,484,mujer,87,,,,
 2020-05-26,CABA,485,mujer,62,,,,
-2020-05-27,Córdoba,486,hombre,81,,,,
+2020-05-27,Córdoba,486,hombre,81,,SI,,Según reporte provincial tendría 89 años. Diagnóstico 10/05
 2020-05-27,CABA,487,hombre,65,,,,
 2020-05-27,Buenos Aires,488,hombre,78,,,,
 2020-05-27,Buenos Aires,489,hombre,75,,,,
@@ -548,7 +548,7 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes,observacion
 2020-06-01,CABA,547,hombre,50,,,,
 2020-06-01,Chaco,548,hombre,44,,,,
 2020-06-01,Chaco,549,hombre,47,,,,
-2020-06-01,Córdoba,550,hombre,70,,,,
+2020-06-01,Córdoba,550,hombre,70,,,,Internación 03/04. Diagnóstico 05/04
 2020-06-01,CABA,551,mujer,91,,,,
 2020-06-01,CABA,552,mujer,92,,,,
 2020-06-01,CABA,553,mujer,70,,,,
@@ -581,7 +581,7 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes,observacion
 2020-06-03,Buenos Aires,580,mujer,72,,,,
 2020-06-03,CABA,581,mujer,77,,,,
 2020-06-03,CABA,582,mujer,78,,,,
-2020-06-03,Córdoba,583,mujer,83,,SI,,Diagnosticada e internada desde el 12/04
+2020-06-03,Córdoba,583,mujer,83,,SI,,Diagnóstico e internación  12/04
 2020-06-04,CABA,584,mujer,84,,,,
 2020-06-04,CABA,585,mujer,45,,,,
 2020-06-04,Buenos Aires,586,mujer,88,,,,
@@ -636,7 +636,7 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes,observacion
 2020-06-06,CABA,635,mujer,77,,,,
 2020-06-06,CABA,636,mujer,89,,,,
 2020-06-06,CABA,637,mujer,81,,,,
-2020-06-06,Córdoba,638,mujer,90,,,,
+2020-06-06,Córdoba,638,mujer,90,,SI,,Diagnóstico e internación 16/04. Según reporte provincial el deceso se produce el 05/05 
 2020-06-06,Buenos Aires,639,mujer,50,,,,
 2020-06-06,CABA,640,hombre,64,,,,
 2020-06-06,CABA,641,hombre,56,,,,
@@ -783,7 +783,7 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes,observacion
 2020-06-12,CABA,782,mujer,63,,,,
 2020-06-12,CABA,783,mujer,58,,,,
 2020-06-12,Chaco,784,mujer,77,,,,
-2020-06-12,Córdoba,785,mujer,75,,,,
+2020-06-12,Córdoba,785,mujer,75,,SI,,Internación 08/05
 2020-06-13,Buenos Aires,786,mujer,51,,,,
 2020-06-13,Buenos Aires,787,mujer,81,,,,
 2020-06-13,Buenos Aires,788,mujer,92,,,,
@@ -828,7 +828,7 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes,observacion
 2020-06-14,CABA,827,hombre,58,,,,
 2020-06-14,Chaco,828,hombre,71,,,,
 2020-06-14,Chaco,829,hombre,83,,,,
-2020-06-14,Córdoba,830,hombre,66,,,,
+2020-06-14,Córdoba,830,hombre,66,,SI,,Diagnóstico 09/05. Estaba internado
 2020-06-14,Buenos Aires,831,mujer,93,,,,
 2020-06-14,CABA,832,mujer,52,,,,
 2020-06-14,Chaco,833,mujer,32,,,,
@@ -851,7 +851,7 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes,observacion
 2020-06-15,CABA,850,hombre,40,,,,
 2020-06-15,CABA,851,hombre,72,,,,
 2020-06-15,Río Negro,852,hombre,67,,,,
-2020-06-15,Córdoba,853,hombre,64,,,,
+2020-06-15,Córdoba,853,hombre,64,,SI,,Diagnóstico 29/04. Estaba internado
 2020-06-15,CABA,854,mujer,92,,,,
 2020-06-16,Buenos Aires,855,mujer,50,,,,
 2020-06-16,Buenos Aires,856,mujer,74,,,,
@@ -1076,7 +1076,7 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes,observacion
 2020-06-23,CABA,1075,mujer,86,,,,
 2020-06-23,CABA,1076,mujer,80,,,,
 2020-06-23,CABA,1077,mujer,96,,,,
-2020-06-23,Córdoba,1078,mujer,90,,,,
+2020-06-23,Córdoba,1078,mujer,90,,SI,,Diagnóstico 11/04. Estaba internada
 2020-06-24,Buenos Aires,1079,hombre,81,,,,
 2020-06-24,Buenos Aires,1080,hombre,57,,,,
 2020-06-24,Chaco,1081,hombre,46,,,,
@@ -1264,7 +1264,7 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes,observacion
 2020-06-29,CABA,1263,hombre,81,,,,
 2020-06-29,CABA,1264,hombre,76,,,,
 2020-06-29,CABA,1265,hombre,66,,,,
-2020-06-29,Córdoba,1266,hombre,73,,,,
+2020-06-29,Córdoba,1266,hombre,73,investigación,"Diabetes, insuficiencia cardíaca e hipertensión arterial",,"Hisopado 26/06, fallece 27/06, diagnóstico 28/06. Oriundo de Malvinas Argentinas"
 2020-06-29,Buenos Aires,1267,mujer,90,,,,
 2020-06-29,Buenos Aires,1268,mujer,89,,,,
 2020-06-29,Buenos Aires,1269,mujer,88,,,,
