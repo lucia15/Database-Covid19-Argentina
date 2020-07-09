@@ -2468,27 +2468,51 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-07-06,Santiago del Estero,26,1,0,0,
 2020-07-06,Tierra del Fuego,153,0,1,0,
 2020-07-06,Tucumán,85,0,4,0,
-2020-07-07,Buenos Aires,43201,1751,,,
-2020-07-07,CABA,33305,1025,,,
-2020-07-07,Catamarca,7,0,,,
-2020-07-07,Chaco,2357,22,,,
-2020-07-07,Chubut,160,0,,,
-2020-07-07,Córdoba,778,48,,,
-2020-07-07,Corrientes,121,1,,,
-2020-07-07,Entre Ríos,344,10,,,
-2020-07-07,Formosa,75,0,,,
-2020-07-07,Jujuy,222,30,,,
-2020-07-07,La Pampa,7,0,,,
-2020-07-07,La Rioja,110,3,,,
-2020-07-07,Mendoza,222,23,,,
-2020-07-07,Misiones,42,0,,,
-2020-07-07,Neuquén,616,22,,,
-2020-07-07,Río Negro,997,25,,,
-2020-07-07,Salta,69,8,,,
-2020-07-07,San Juan,9,0,,,
-2020-07-07,San Luis,12,0,,,
-2020-07-07,Santa Cruz,55,0,,,
-2020-07-07,Santa Fe,451,9,,,
-2020-07-07,Santiago del Estero,27,1,,,
-2020-07-07,Tierra del Fuego,154,1,,,
-2020-07-07,Tucumán,85,0,,,
+2020-07-07,Buenos Aires,43201,1751,748,8,Reporte vespertino 2020-07-07 no fue publicado en la página
+2020-07-07,CABA,33305,1025,602,11,Reporte vespertino 2020-07-07 no fue publicado en la página
+2020-07-07,Catamarca,7,0,0,0,Reporte vespertino 2020-07-07 no fue publicado en la página
+2020-07-07,Chaco,2357,22,107,0,Reporte vespertino 2020-07-07 no fue publicado en la página
+2020-07-07,Chubut,160,0,1,0,Reporte vespertino 2020-07-07 no fue publicado en la página
+2020-07-07,Córdoba,778,48,37,0,Reporte vespertino 2020-07-07 no fue publicado en la página
+2020-07-07,Corrientes,121,1,0,0,Reporte vespertino 2020-07-07 no fue publicado en la página
+2020-07-07,Entre Ríos,344,10,0,0,Reporte vespertino 2020-07-07 no fue publicado en la página
+2020-07-07,Formosa,75,0,0,0,Reporte vespertino 2020-07-07 no fue publicado en la página
+2020-07-07,Jujuy,222,30,1,0,Reporte vespertino 2020-07-07 no fue publicado en la página
+2020-07-07,La Pampa,7,0,0,0,Reporte vespertino 2020-07-07 no fue publicado en la página
+2020-07-07,La Rioja,110,3,9,0,Reporte vespertino 2020-07-07 no fue publicado en la página
+2020-07-07,Mendoza,222,23,9,0,Reporte vespertino 2020-07-07 no fue publicado en la página
+2020-07-07,Misiones,42,0,2,0,Reporte vespertino 2020-07-07 no fue publicado en la página
+2020-07-07,Neuquén,616,22,18,0,Reporte vespertino 2020-07-07 no fue publicado en la página
+2020-07-07,Río Negro,997,25,44,1,Reporte vespertino 2020-07-07 no fue publicado en la página
+2020-07-07,Salta,69,8,1,0,Reporte vespertino 2020-07-07 no fue publicado en la página
+2020-07-07,San Juan,9,0,0,0,Reporte vespertino 2020-07-07 no fue publicado en la página
+2020-07-07,San Luis,12,0,0,0,Reporte vespertino 2020-07-07 no fue publicado en la página
+2020-07-07,Santa Cruz,55,0,0,0,Reporte vespertino 2020-07-07 no fue publicado en la página
+2020-07-07,Santa Fe,451,9,6,0,Reporte vespertino 2020-07-07 no fue publicado en la página
+2020-07-07,Santiago del Estero,27,1,0,0,Reporte vespertino 2020-07-07 no fue publicado en la página
+2020-07-07,Tierra del Fuego,154,1,1,0,Reporte vespertino 2020-07-07 no fue publicado en la página
+2020-07-07,Tucumán,85,0,4,0,Reporte vespertino 2020-07-07 no fue publicado en la página
+2020-07-08,Buenos Aires,45423,2222,783,35,
+2020-07-08,CABA,34422,1116,618,16,
+2020-07-08,Catamarca,28,21,0,0,
+2020-07-08,Chaco,2416,59,107,0,
+2020-07-08,Chubut,173,13,1,0,
+2020-07-08,Córdoba,799,21,37,0,
+2020-07-08,Corrientes,125,4,0,0,
+2020-07-08,Entre Ríos,355,11,0,0,
+2020-07-08,Formosa,75,0,0,0,
+2020-07-08,Jujuy,260,38,1,0,
+2020-07-08,La Pampa,7,0,0,0,
+2020-07-08,La Rioja,124,14,9,0,
+2020-07-08,Mendoza,244,22,9,0,
+2020-07-08,Misiones,42,0,2,0,
+2020-07-08,Neuquén,639,23,18,0,
+2020-07-08,Río Negro,1008,11,44,0,
+2020-07-08,Salta,75,6,1,0,
+2020-07-08,San Juan,9,0,0,0,
+2020-07-08,San Luis,12,0,0,0,
+2020-07-08,Santa Cruz,55,0,0,0,
+2020-07-08,Santa Fe,465,14,6,0,
+2020-07-08,Santiago del Estero,35,8,0,0,
+2020-07-08,Tierra del Fuego,153,0,1,0,
+2020-07-08,Tucumán,86,1,4,0,
