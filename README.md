@@ -12,7 +12,6 @@ La base de datos está compuesta de los siguientes archivos:
 + **Argentina-covid19.csv**
 + **Argentina-covid19-por-provincia.csv**
 + **Argentina-covid19-fallecidos.csv**
-+ **Argentina-covid19-UTI.csv**
 
 El primer dataset, Argentina-covid19.csv, contiene las siguientes variables:
 
@@ -44,6 +43,9 @@ El primer dataset, Argentina-covid19.csv, contiene las siguientes variables:
 + *tests_realizados_total*:	Cantidad de tests realizados hasta el momento
 + *tests_realizados_nuevos*: Cantidad de tests realizados en el día
 + *test_por_millon_hab*: Cantidad de tests realizados por millón de habitantes
++ *internados*: Cantidad de casos confirmados COVID-19 internados en Unidades de Terapia Intensiva (UTI), según información reportada por las juridicciones
++ *%Nacion*: Porcentaje ocupación total de camas UTI adulto en el territorio nacional, según información reportada por las juridicciones
++ *%AMBA*: Porcentaje ocupación total de camas UTI adulto en el Área Metropolitana de Bs. As (AMBA), según información reportada por las juridicciones
 + *observaciones*: Información relevante del día de la fecha
 
 
@@ -74,16 +76,6 @@ Las variables consideradas son:
 del fallecido o sus allegados (en caso de tratarse de un caso local)
 + *observaciones*: Otras observaciones de interés
 
-
-En Argentina-covid19-UTI.csv, se registra información relativa al uso de las Unidades de Terapia Intensiva (UTI),
-según la información reportada por las juridicciones. Las variables:
-
-+ *fecha*: Día del reporte
-+ *internados*: Cantidad de casos confirmados COVID-19 internados en UTI
-+ *%Nacion*: Porcentaje ocupación total de camas UTI adulto en el territorio nacional
-+ *%AMBA*: Porcentaje ocupación total de camas UTI adulto en el Área Metropolitana de Bs. As (AMBA)
-
-________________________________________________________________________________
 
 Para ver los prácticos que se trabajarán en una de las mentorías de la 
 
