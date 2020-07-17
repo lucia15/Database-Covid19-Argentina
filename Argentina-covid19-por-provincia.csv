@@ -2636,8 +2636,8 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-07-13,Santiago del Estero,36,0,0,0,
 2020-07-13,Tierra del Fuego,160,0,1,0,
 2020-07-13,Tucumán,92,2,4,0,
-2020-07-14,Buenos Aires,57925,2262,454,23,Reporte vespertino 2020-07-14 no fue publicado en la página
-2020-07-14,CABA,40237,1039,709,15,Reporte vespertino 2020-07-14 no fue publicado en la página
+2020-07-14,Buenos Aires,57925,2262,443,12,Reporte vespertino 2020-07-14 no fue publicado en la página
+2020-07-14,CABA,40237,1039,705,11,Reporte vespertino 2020-07-14 no fue publicado en la página
 2020-07-14,Catamarca,39,0,0,0,Reporte vespertino 2020-07-14 no fue publicado en la página
 2020-07-14,Chaco,2674,72,113,0,Reporte vespertino 2020-07-14 no fue publicado en la página
 2020-07-14,Chubut,213,2,2,0,Reporte vespertino 2020-07-14 no fue publicado en la página
@@ -2650,8 +2650,8 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-07-14,La Rioja,154,8,11,0,Reporte vespertino 2020-07-14 no fue publicado en la página
 2020-07-14,Mendoza,335,27,9,0,Reporte vespertino 2020-07-14 no fue publicado en la página
 2020-07-14,Misiones,42,1,2,0,Reporte vespertino 2020-07-14 no fue publicado en la página
-2020-07-14,Neuquén,761,21,20,1,Reporte vespertino 2020-07-14 no fue publicado en la página
-2020-07-14,Río Negro,1166,43,48,3,Reporte vespertino 2020-07-14 no fue publicado en la página
+2020-07-14,Neuquén,761,21,19,0,Reporte vespertino 2020-07-14 no fue publicado en la página
+2020-07-14,Río Negro,1166,43,45,0,Reporte vespertino 2020-07-14 no fue publicado en la página
 2020-07-14,Salta,126,9,2,0,Reporte vespertino 2020-07-14 no fue publicado en la página
 2020-07-14,San Juan,9,0,0,0,Reporte vespertino 2020-07-14 no fue publicado en la página
 2020-07-14,San Luis,13,1,0,0,Reporte vespertino 2020-07-14 no fue publicado en la página
@@ -2660,3 +2660,27 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-07-14,Santiago del Estero,37,1,0,0,Reporte vespertino 2020-07-14 no fue publicado en la página
 2020-07-14,Tierra del Fuego,207,47,1,0,Reporte vespertino 2020-07-14 no fue publicado en la página
 2020-07-14,Tucumán,91,0,4,0,Un caso fue reclasificado a la Ciudad de Buenos Aires (CABA)
+2020-07-15,Buenos Aires,60660,2734,485,42,
+2020-07-15,CABA,41457,1220,733,28,
+2020-07-15,Catamarca,41,2,0,0,
+2020-07-15,Chaco,2751,77,113,0,
+2020-07-15,Chubut,218,5,2,0,
+2020-07-15,Córdoba,1020,17,37,0,
+2020-07-15,Corrientes,127,0,0,0,
+2020-07-15,Entre Ríos,566,9,4,4,
+2020-07-15,Formosa,75,0,0,0,
+2020-07-15,Jujuy,533,50,1,0,
+2020-07-15,La Pampa,8,1,0,0,
+2020-07-15,La Rioja,157,3,11,0,
+2020-07-15,Mendoza,364,29,9,0,
+2020-07-15,Misiones,41,0,2,0,Un caso fue reclasificado a la Ciudad de Buenos Aires (CABA)
+2020-07-15,Neuquén,796,35,20,1,
+2020-07-15,Río Negro,1194,28,50,5,
+2020-07-15,Salta,128,2,2,0,
+2020-07-15,San Juan,14,5,0,0,
+2020-07-15,San Luis,13,0,0,0,
+2020-07-15,Santa Cruz,70,9,0,0,
+2020-07-15,Santa Fe,591,23,8,2,
+2020-07-15,Santiago del Estero,37,0,0,0,
+2020-07-15,Tierra del Fuego,207,0,1,0,
+2020-07-15,Tucumán,92,1,4,0,
