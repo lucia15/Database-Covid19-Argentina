@@ -241,7 +241,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-03-28,Buenos Aires,204,8,4,1,
 2020-03-28,CABA,257,18,5,1,
 2020-03-28,Chaco,65,5,3,0,
-2020-03-28,Córdoba,59,1,0,0,Un caso fue reclasificado a la provincia de Córdoba
+2020-03-28,Córdoba,59,1,0,0,1 caso fue reclasificado a Córdoba
 2020-03-28,Corrientes,9,4,0,0,
 2020-03-28,Entre Ríos,9,0,0,0,
 2020-03-28,Jujuy,3,0,0,0,
@@ -556,7 +556,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-04-12,Chaco,150,1,8,0,
 2020-04-12,Córdoba,206,5,3,1,
 2020-04-12,Corrientes,24,0,0,0,
-2020-04-12,Entre Ríos,21,-1,0,0,Un caso fue reclasificado a la provincia de Buenos Aires
+2020-04-12,Entre Ríos,21,-1,0,0,1 caso fue reclasificado a la provincia de Buenos Aires
 2020-04-12,Jujuy,5,0,0,0,
 2020-04-12,La Pampa,5,0,0,0,
 2020-04-12,La Rioja,19,1,1,0,
@@ -660,7 +660,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-04-17,Buenos Aires,794,34,51,3,
 2020-04-17,CABA,677,14,36,1,
 2020-04-17,Chaco,224,22,10,0,
-2020-04-17,Chubut,1,-1,0,0,Un caso fue reclasificado a la provincia de Buenos Aires
+2020-04-17,Chubut,1,-1,0,0,1 caso fue reclasificado a la provincia de Buenos Aires
 2020-04-17,Córdoba,247,6,6,0,
 2020-04-17,Corrientes,31,0,0,0,
 2020-04-17,Entre Ríos,22,0,0,0,
@@ -832,7 +832,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-04-24,Santa Fe,239,3,2,0,
 2020-04-24,Santiago del Estero,12,0,0,0,
 2020-04-24,Tierra del Fuego,126,1,0,0,
-2020-04-24,Tucumán,34,-1,3,0,Un caso fue reclasificado a la provincia de Córdoba
+2020-04-24,Tucumán,34,-1,3,0,1 caso fue reclasificado a Córdoba
 2020-04-25,Buenos Aires,1275,94,73,2,
 2020-04-25,CABA,971,55,52,4,
 2020-04-25,Chaco,294,7,12,0,
@@ -977,7 +977,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-05-01,La Rioja,55,3,6,0,
 2020-05-01,Mendoza,84,1,8,0,
 2020-05-01,Misiones,12,0,1,0,
-2020-05-01,Neuquén,110,0,5,0,Neuquén reclasificó un caso descartado que figuraba como confirmado debido a un error de carga
+2020-05-01,Neuquén,110,0,5,0,Reclasificó un caso descartado que figuraba como confirmado debido a un error de carga
 2020-05-01,Río Negro,236,8,7,0,
 2020-05-01,Salta,4,0,0,0,
 2020-05-01,San Juan,2,0,0,0,
@@ -1240,7 +1240,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-05-13,La Pampa,5,0,0,0,
 2020-05-13,La Rioja,60,0,7,0,
 2020-05-13,Mendoza,88,1,8,0,
-2020-05-13,Misiones,25,0,1,0,Un caso fue reclasificado a la Ciudad de Buenos Aires (CABA)
+2020-05-13,Misiones,25,0,1,0,1 caso fue reclasificado a la Ciudad de Buenos Aires (CABA)
 2020-05-13,Neuquén,113,2,5,0,
 2020-05-13,Río Negro,294,4,10,0,
 2020-05-13,Salta,5,0,0,0,
@@ -1274,16 +1274,16 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-05-14,Tierra del Fuego,148,0,0,0,
 2020-05-14,Tucumán,42,0,3,0,
 2020-05-15,Buenos Aires,2497,86,149,2,
-2020-05-15,CABA,2833,214,116,0,Un caso fue reclasificado a la Ciudad de Buenos Aires (CABA)
+2020-05-15,CABA,2833,214,116,0,1 caso fue reclasificado a la Ciudad de Buenos Aires (CABA)
 2020-05-15,Chaco,538,25,24,1,
 2020-05-15,Chubut,4,0,0,0,
 2020-05-15,Córdoba,369,3,23,0,
 2020-05-15,Corrientes,79,0,0,0,
-2020-05-15,Entre Ríos,29,0,0,0,Un caso fue reclasificado a la Ciudad de Buenos Aires (CABA)
+2020-05-15,Entre Ríos,29,0,0,0,1 caso fue reclasificado a la Ciudad de Buenos Aires (CABA)
 2020-05-15,Jujuy,5,0,0,0,
 2020-05-15,La Pampa,5,0,0,0,
 2020-05-15,La Rioja,60,0,7,0,
-2020-05-15,Mendoza,87,0,8,0,Un caso fue reclasificado internamente
+2020-05-15,Mendoza,87,0,8,0,1 caso fue reclasificado internamente
 2020-05-15,Misiones,25,0,1,0,
 2020-05-15,Neuquén,114,0,5,0,
 2020-05-15,Río Negro,315,17,11,0,
@@ -1344,7 +1344,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-05-18,Chaco,591,13,29,2,
 2020-05-18,Chubut,4,0,0,0,
 2020-05-18,Córdoba,418,20,25,0,
-2020-05-18,Corrientes,78,-1,0,0,Un caso fue reclasificado a la Ciudad de Buenos Aires (CABA)
+2020-05-18,Corrientes,78,-1,0,0,1 caso fue reclasificado a la Ciudad de Buenos Aires (CABA)
 2020-05-18,Entre Ríos,29,0,0,0,
 2020-05-18,Jujuy,5,0,0,0,
 2020-05-18,La Pampa,5,0,0,0,
@@ -1492,7 +1492,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-05-24,Santa Fe,260,2,3,0,
 2020-05-24,Santiago del Estero,22,0,0,0,
 2020-05-24,Tierra del Fuego,148,0,0,0,
-2020-05-24,Tucumán,45,-1,3,0,Un caso fue reclasificado a la Ciudad de Buenos Aires (CABA)
+2020-05-24,Tucumán,45,-1,3,0,1 caso fue reclasificado a la Ciudad de Buenos Aires (CABA)
 2020-05-25,Buenos Aires,4219,159,188,5,
 2020-05-25,CABA,5875,375,161,8,
 2020-05-25,Chaco,757,9,42,0,
@@ -1511,7 +1511,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-05-25,San Juan,4,0,0,0,
 2020-05-25,San Luis,11,0,0,0,
 2020-05-25,Santa Cruz,49,0,0,0,
-2020-05-25,Santa Fe,259,-1,3,0,Un caso fue reclasificado a la Ciudad de Buenos Aires (CABA)
+2020-05-25,Santa Fe,259,-1,3,0,1 caso fue reclasificado a la Ciudad de Buenos Aires (CABA)
 2020-05-25,Santiago del Estero,22,0,0,0,
 2020-05-25,Tierra del Fuego,148,0,0,0,
 2020-05-25,Tucumán,47,2,3,0,
@@ -1547,7 +1547,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-05-27,Jujuy,5,0,0,0,
 2020-05-27,La Pampa,5,0,0,0,
 2020-05-27,La Rioja,63,0,7,0,
-2020-05-27,Mendoza,89,0,8,0,Un caso fue reclasificado como descartado
+2020-05-27,Mendoza,89,0,8,0,1 caso fue reclasificado como descartado
 2020-05-27,Misiones,25,0,1,0,
 2020-05-27,Neuquén,125,2,5,0,
 2020-05-27,Río Negro,368,8,16,0,
@@ -1555,7 +1555,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-05-27,San Juan,5,1,0,0,
 2020-05-27,San Luis,11,0,0,0,
 2020-05-27,Santa Cruz,49,0,0,0,
-2020-05-27,Santa Fe,260,0,3,0,Un caso fue reclasificado a la Ciudad de Buenos Aires (CABA)
+2020-05-27,Santa Fe,260,0,3,0,1 caso fue reclasificado a la Ciudad de Buenos Aires (CABA)
 2020-05-27,Santiago del Estero,22,0,0,0,
 2020-05-27,Tierra del Fuego,149,1,0,0,
 2020-05-27,Tucumán,47,0,3,0,
@@ -1563,7 +1563,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-05-28,CABA,6989,425,173,3,
 2020-05-28,Chaco,824,28,47,1,
 2020-05-28,Chubut,8,3,0,0,
-2020-05-28,Córdoba,458,-1,29,0,Un caso fue reclasificado a la provincia de Buenos Aires
+2020-05-28,Córdoba,458,-1,29,0,1 caso fue reclasificado a la provincia de Buenos Aires
 2020-05-28,Corrientes,81,1,0,0,
 2020-05-28,Entre Ríos,30,1,0,0,
 2020-05-28,Jujuy,6,1,0,0,
@@ -1585,7 +1585,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-05-29,CABA,7388,399,179,6,
 2020-05-29,Chaco,850,26,48,1,
 2020-05-29,Chubut,8,0,0,0,
-2020-05-29,Córdoba,457,0,29,0,Un caso fue reclasificado a la Ciudad de Buenos Aires (CABA)
+2020-05-29,Córdoba,457,0,29,0,1 caso fue reclasificado a la Ciudad de Buenos Aires (CABA)
 2020-05-29,Corrientes,87,6,0,0,
 2020-05-29,Entre Ríos,30,0,0,0,
 2020-05-29,Jujuy,6,0,0,0,
@@ -1607,7 +1607,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-05-30,CABA,7848,459,181,2,
 2020-05-30,Chaco,874,24,52,4,
 2020-05-30,Chubut,10,2,0,0,
-2020-05-30,Córdoba,456,0,29,0,Un caso fue reclasificado a la Ciudad de Buenos Aires (CABA)
+2020-05-30,Córdoba,456,0,29,0,1 caso fue reclasificado a la Ciudad de Buenos Aires (CABA)
 2020-05-30,Corrientes,87,0,0,0,
 2020-05-30,Entre Ríos,31,1,0,0,
 2020-05-30,Jujuy,6,0,0,0,
@@ -1746,7 +1746,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-06-05,La Pampa,5,0,0,0,
 2020-06-05,La Rioja,63,0,7,0,
 2020-06-05,Mendoza,101,1,8,0,
-2020-06-05,Misiones,30,0,1,0,Un caso fue reclasificado a la provincia de Buenos Aires
+2020-06-05,Misiones,30,0,1,0,1 caso fue reclasificado a la provincia de Buenos Aires
 2020-06-05,Neuquén,151,1,5,0,
 2020-06-05,Río Negro,442,8,18,0,
 2020-06-05,Salta,15,0,0,0,
@@ -1767,7 +1767,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-06-06,Jujuy,6,0,0,0,
 2020-06-06,La Pampa,5,0,0,0,
 2020-06-06,La Rioja,63,0,7,0,
-2020-06-06,Mendoza,100,0,8,0,Un caso fue reclasificado a la Ciudad de Buenos Aires (CABA)
+2020-06-06,Mendoza,100,0,8,0,1 caso fue reclasificado a la Ciudad de Buenos Aires (CABA)
 2020-06-06,Misiones,34,4,1,0,
 2020-06-06,Neuquén,152,1,5,0,
 2020-06-06,Río Negro,457,15,18,0,
@@ -1783,7 +1783,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-06-07,CABA,11010,359,246,4,Uno de los fallecidos no registra información de su edad
 2020-06-07,Chaco,1045,18,61,1,
 2020-06-07,Chubut,20,5,0,0,
-2020-06-07,Córdoba,463,0,32,0,Un caso fue reclasificado a la Ciudad de Buenos Aires (CABA)
+2020-06-07,Córdoba,463,0,32,0,1 caso fue reclasificado a la Ciudad de Buenos Aires (CABA)
 2020-06-07,Corrientes,96,0,0,0,
 2020-06-07,Entre Ríos,51,2,0,0,
 2020-06-07,Jujuy,6,0,0,0,
@@ -1834,7 +1834,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-06-09,La Pampa,5,0,0,0,
 2020-06-09,La Rioja,64,0,8,0,
 2020-06-09,Mendoza,102,1,8,0,
-2020-06-09,Misiones,36,0,1,0,Un caso fue reclasificado a la provincia de Buenos Aires
+2020-06-09,Misiones,36,0,1,0,1 caso fue reclasificado a la provincia de Buenos Aires
 2020-06-09,Neuquén,157,5,5,0,
 2020-06-09,Río Negro,491,13,22,1,
 2020-06-09,Salta,16,0,0,0,
@@ -1866,7 +1866,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-06-10,Santa Fe,282,4,3,0,
 2020-06-10,Santiago del Estero,22,0,0,0,
 2020-06-10,Tierra del Fuego,149,0,0,0,
-2020-06-10,Tucumán,48,0,4,0,Un caso fue reclasificado a la Ciudad de Buenos Aires (CABA)
+2020-06-10,Tucumán,48,0,4,0,1 caso fue reclasificado a la Ciudad de Buenos Aires (CABA)
 2020-06-11,Buenos Aires,10968,756,322,19,
 2020-06-11,CABA,13026,538,282,8,
 2020-06-11,Chaco,1211,48,65,1,
@@ -1996,7 +1996,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-06-16,Misiones,38,0,2,0,
 2020-06-16,Neuquén,240,28,6,1,
 2020-06-16,Río Negro,581,17,27,0,
-2020-06-16,Salta,20,0,0,0,Un caso fue reclasificado a la provincia de Buenos Aires
+2020-06-16,Salta,20,0,0,0,1 caso fue reclasificado a la provincia de Buenos Aires
 2020-06-16,San Juan,7,0,0,0,
 2020-06-16,San Luis,11,0,0,0,
 2020-06-16,Santa Cruz,51,0,0,0,
@@ -2062,7 +2062,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-06-19,La Pampa,6,0,0,0,
 2020-06-19,La Rioja,64,0,8,0,
 2020-06-19,Mendoza,122,3,8,0,
-2020-06-19,Misiones,38,0,2,0,Un caso fue reclasificado a la provincia de Buenos Aires
+2020-06-19,Misiones,38,0,2,0,1 caso fue reclasificado a la provincia de Buenos Aires
 2020-06-19,Neuquén,294,27,7,0,
 2020-06-19,Río Negro,656,34,30,0,
 2020-06-19,Salta,21,0,0,0,
@@ -2170,7 +2170,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-06-24,Chaco,1694,37,86,2,
 2020-06-24,Chubut,103,2,1,0,
 2020-06-24,Córdoba,601,2,36,0,
-2020-06-24,Corrientes,114,0,0,0,Dos casos fueron reclasificados a la Ciudad de Buenos Aires (CABA)
+2020-06-24,Corrientes,114,0,0,0,2 casos fueron reclasificados a la Ciudad de Buenos Aires (CABA)
 2020-06-24,Entre Ríos,201,24,0,0,
 2020-06-24,Formosa,45,0,0,0,
 2020-06-24,Jujuy,44,26,1,0,
@@ -2183,7 +2183,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-06-24,Salta,25,3,0,0,
 2020-06-24,San Juan,8,0,0,0,
 2020-06-24,San Luis,11,0,0,0,
-2020-06-24,Santa Cruz,51,0,0,0,Un caso fue reclasificado a la provincia de Jujuy
+2020-06-24,Santa Cruz,51,0,0,0,1 caso fue reclasificado a Jujuy
 2020-06-24,Santa Fe,373,4,4,0,
 2020-06-24,Santiago del Estero,22,0,0,0,
 2020-06-24,Tierra del Fuego,149,0,1,1,
@@ -2246,7 +2246,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-06-27,La Pampa,7,0,,0,
 2020-06-27,La Rioja,76,1,,0,
 2020-06-27,Mendoza,161,6,,0,
-2020-06-27,Misiones,39,0,,0,Un caso fue reclasificado a la Ciudad de Buenos Aires (CABA)
+2020-06-27,Misiones,39,0,,0,1 caso fue reclasificado a la Ciudad de Buenos Aires (CABA)
 2020-06-27,Neuquén,431,16,,0,
 2020-06-27,Río Negro,819,14,,0,
 2020-06-27,Salta,27,2,,0,
@@ -2264,7 +2264,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-06-28,Córdoba,635,5,36,0,
 2020-06-28,Corrientes,115,0,0,0,
 2020-06-28,Entre Ríos,273,24,0,0,
-2020-06-28,Formosa,70,0,0,0,Un caso fue reclasificado a la provincia de Buenos Aires
+2020-06-28,Formosa,70,0,0,0,1 caso fue reclasificado a la provincia de Buenos Aires
 2020-06-28,Jujuy,75,0,1,0,
 2020-06-28,La Pampa,7,0,0,0,
 2020-06-28,La Rioja,76,0,8,0,
@@ -2371,7 +2371,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-07-02,Santa Fe,424,2,4,0,
 2020-07-02,Santiago del Estero,25,0,0,0,
 2020-07-02,Tierra del Fuego,149,0,1,0,
-2020-07-02,Tucumán,79,0,4,0,Un caso fue reclasificado a la provincia de Buenos Aires
+2020-07-02,Tucumán,79,0,4,0,1 caso fue reclasificado a la provincia de Buenos Aires
 2020-07-03,Buenos Aires,36893,1849,648,26,
 2020-07-03,CABA,29619,835,554,22,
 2020-07-03,Catamarca,1,1,0,0,
@@ -2546,14 +2546,14 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-07-10,Chaco,2496,50,112,1,
 2020-07-10,Chubut,196,4,1,0,
 2020-07-10,Córdoba,852,26,37,0,
-2020-07-10,Corrientes,124,0,0,0,Un caso fue reclasificado a la Ciudad de Buenos Aires (CABA)
+2020-07-10,Corrientes,124,0,0,0,1 caso fue reclasificado a la Ciudad de Buenos Aires (CABA)
 2020-07-10,Entre Ríos,401,25,0,0,
 2020-07-10,Formosa,75,0,0,0,
 2020-07-10,Jujuy,335,23,1,0,
 2020-07-10,La Pampa,7,0,0,0,
 2020-07-10,La Rioja,131,6,11,2,
 2020-07-10,Mendoza,267,12,9,0,
-2020-07-10,Misiones,41,0,2,0,Un caso fue reclasificado a la provincia de Buenos Aires
+2020-07-10,Misiones,41,0,2,0,1 caso fue reclasificado a la provincia de Buenos Aires
 2020-07-10,Neuquén,663,14,19,1,
 2020-07-10,Río Negro,1057,26,44,0,
 2020-07-10,Salta,86,2,2,0,
@@ -2583,7 +2583,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-07-11,Salta,107,21,2,0,Reporte vespertino 2020-07-11 no fue publicado en la página
 2020-07-11,San Juan,9,0,0,0,Reporte vespertino 2020-07-11 no fue publicado en la página
 2020-07-11,San Luis,12,0,0,0,Reporte vespertino 2020-07-11 no fue publicado en la página
-2020-07-11,Santa Cruz,60,0,0,0,Un caso fue reclasificado a la provincia de Buenos Aires
+2020-07-11,Santa Cruz,60,0,0,0,1 caso fue reclasificado a la provincia de Buenos Aires
 2020-07-11,Santa Fe,505,19,6,0,Reporte vespertino 2020-07-11 no fue publicado en la página
 2020-07-11,Santiago del Estero,36,0,0,0,Reporte vespertino 2020-07-11 no fue publicado en la página
 2020-07-11,Tierra del Fuego,154,0,1,0,Reporte vespertino 2020-07-11 no fue publicado en la página
@@ -2594,7 +2594,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-07-12,Chaco,2577,25,113,0,
 2020-07-12,Chubut,206,1,2,0,
 2020-07-12,Córdoba,916,34,37,0,
-2020-07-12,Corrientes,125,0,0,0,Un caso fue reclasificado a la provincia de Entre Ríos
+2020-07-12,Corrientes,125,0,0,0,1 caso fue reclasificado a Entre Ríos
 2020-07-12,Entre Ríos,493,60,0,0,
 2020-07-12,Formosa,75,0,0,0,
 2020-07-12,Jujuy,462,68,1,0,
@@ -2644,7 +2644,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-07-14,Córdoba,1003,43,37,0,Reporte vespertino 2020-07-14 no fue publicado en la página
 2020-07-14,Corrientes,127,2,0,0,Reporte vespertino 2020-07-14 no fue publicado en la página
 2020-07-14,Entre Ríos,557,22,0,0,Reporte vespertino 2020-07-14 no fue publicado en la página
-2020-07-14,Formosa,75,0,0,0,Dos casos fueron reclasificados a la Ciudad de Buenos Aires (CABA)
+2020-07-14,Formosa,75,0,0,0,2 casos fueron reclasificados a la Ciudad de Buenos Aires (CABA)
 2020-07-14,Jujuy,483,16,1,0,Reporte vespertino 2020-07-14 no fue publicado en la página
 2020-07-14,La Pampa,7,0,0,0,Reporte vespertino 2020-07-14 no fue publicado en la página
 2020-07-14,La Rioja,154,8,11,0,Reporte vespertino 2020-07-14 no fue publicado en la página
@@ -2659,7 +2659,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-07-14,Santa Fe,568,29,6,0,Reporte vespertino 2020-07-14 no fue publicado en la página
 2020-07-14,Santiago del Estero,37,1,0,0,Reporte vespertino 2020-07-14 no fue publicado en la página
 2020-07-14,Tierra del Fuego,207,47,1,0,Reporte vespertino 2020-07-14 no fue publicado en la página
-2020-07-14,Tucumán,91,0,4,0,Un caso fue reclasificado a la Ciudad de Buenos Aires (CABA)
+2020-07-14,Tucumán,91,0,4,0,1 caso fue reclasificado a la Ciudad de Buenos Aires (CABA)
 2020-07-15,Buenos Aires,60660,2734,485,42,
 2020-07-15,CABA,41457,1220,733,28,
 2020-07-15,Catamarca,41,2,0,0,
@@ -2673,7 +2673,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-07-15,La Pampa,8,1,0,0,
 2020-07-15,La Rioja,157,3,11,0,
 2020-07-15,Mendoza,364,29,9,0,
-2020-07-15,Misiones,41,0,2,0,Un caso fue reclasificado a la Ciudad de Buenos Aires (CABA)
+2020-07-15,Misiones,41,0,2,0,1 caso fue reclasificado a la Ciudad de Buenos Aires (CABA)
 2020-07-15,Neuquén,796,35,20,1,
 2020-07-15,Río Negro,1194,28,50,5,
 2020-07-15,Salta,128,2,2,0,
@@ -2708,3 +2708,27 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-07-16,Santiago del Estero,37,0,0,0,
 2020-07-16,Tierra del Fuego,208,1,1,0,
 2020-07-16,Tucumán,93,1,4,0,
+2020-07-17,Buenos Aires,66206,3002,555,28,
+2020-07-17,CABA,43393,1081,776,28,
+2020-07-17,Catamarca,55,14,0,0,
+2020-07-17,Chaco,2858,65,115,0,
+2020-07-17,Chubut,227,9,2,0,
+2020-07-17,Córdoba,1109,49,38,1,
+2020-07-17,Corrientes,129,0,0,0,
+2020-07-17,Entre Ríos,600,24,5,1,
+2020-07-17,Formosa,75,0,0,0,
+2020-07-17,Jujuy,667,107,1,0,
+2020-07-17,La Pampa,8,0,0,0,
+2020-07-17,La Rioja,163,2,15,2,
+2020-07-17,Mendoza,407,21,13,3,
+2020-07-17,Misiones,41,0,2,0,
+2020-07-17,Neuquén,840,29,22,2,
+2020-07-17,Río Negro,1272,57,51,1,
+2020-07-17,Salta,140,0,2,0,5 casos fueron reclasificados a Jujuy
+2020-07-17,San Juan,14,0,0,0,
+2020-07-17,San Luis,14,1,0,0,
+2020-07-17,Santa Cruz,103,20,0,0,
+2020-07-17,Santa Fe,632,26,8,0,
+2020-07-17,Santiago del Estero,36,0,0,0,1 caso fue reclasificado a la Ciudad de Buenos Aires (CABA)
+2020-07-17,Tierra del Fuego,212,4,1,0,
+2020-07-17,Tucumán,100,7,4,0,
