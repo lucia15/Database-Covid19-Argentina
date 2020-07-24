@@ -2804,27 +2804,27 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-07-20,Santiago del Estero,37,0,0,0,
 2020-07-20,Tierra del Fuego,239,0,1,0,
 2020-07-20,Tucumán,98,0,4,0,2 casos fueron reclasificados a la Ciudad de Buenos Aires (CABA)
-2020-07-21,Buenos Aires,76817,3477,,,
-2020-07-21,CABA,48158,1452,,,
-2020-07-21,Catamarca,60,2,,,
-2020-07-21,Chaco,3031,35,,,
-2020-07-21,Chubut,254,12,,,
-2020-07-21,Córdoba,1377,58,,,
-2020-07-21,Corrientes,130,1,,,
-2020-07-21,Entre Ríos,656,7,,,
-2020-07-21,Formosa,75,0,,,
-2020-07-21,Jujuy,884,120,,,
-2020-07-21,La Pampa,8,0,,,
-2020-07-21,La Rioja,186,2,,,
-2020-07-21,Mendoza,566,49,,,
-2020-07-21,Misiones,41,0,,,
-2020-07-21,Neuquén,932,26,,,
-2020-07-21,Río Negro,1375,34,,,
-2020-07-21,Salta,177,5,,,
-2020-07-21,San Juan,16,2,,,
-2020-07-21,San Luis,15,0,,,
-2020-07-21,Santa Cruz,222,16,,,
-2020-07-21,Santa Fe,753,35,,,
-2020-07-21,Santiago del Estero,38,1,,,
-2020-07-21,Tierra del Fuego,248,9,,,
-2020-07-21,Tucumán,99,1,,,
+2020-07-21,Buenos Aires,76817,3477,1206,34,Reporte matutino 20-07-21 no fue publicado en la página
+2020-07-21,CABA,48158,1452,910,18,Reporte matutino 20-07-21 no fue publicado en la página
+2020-07-21,Catamarca,60,2,0,0,Reporte matutino 20-07-21 no fue publicado en la página
+2020-07-21,Chaco,3031,35,121,0,Reporte matutino 20-07-21 no fue publicado en la página
+2020-07-21,Chubut,254,12,2,0,Reporte matutino 20-07-21 no fue publicado en la página
+2020-07-21,Córdoba,1377,58,41,2,Reporte matutino 20-07-21 no fue publicado en la página
+2020-07-21,Corrientes,130,1,1,0,Reporte matutino 20-07-21 no fue publicado en la página
+2020-07-21,Entre Ríos,656,7,6,1,Reporte matutino 20-07-21 no fue publicado en la página
+2020-07-21,Formosa,75,0,0,0,Reporte matutino 20-07-21 no fue publicado en la página
+2020-07-21,Jujuy,884,120,7,6,Reporte matutino 20-07-21 no fue publicado en la página
+2020-07-21,La Pampa,8,0,0,0,Reporte matutino 20-07-21 no fue publicado en la página
+2020-07-21,La Rioja,186,2,15,0,Reporte matutino 20-07-21 no fue publicado en la página
+2020-07-21,Mendoza,566,49,15,0,Reporte matutino 20-07-21 no fue publicado en la página
+2020-07-21,Misiones,41,0,2,0,Reporte matutino 20-07-21 no fue publicado en la página
+2020-07-21,Neuquén,932,26,22,0,Reporte matutino 20-07-21 no fue publicado en la página
+2020-07-21,Río Negro,1375,34,60,2,Reporte matutino 20-07-21 no fue publicado en la página
+2020-07-21,Salta,177,5,3,0,Reporte matutino 20-07-21 no fue publicado en la página
+2020-07-21,San Juan,16,2,0,0,Reporte matutino 20-07-21 no fue publicado en la página
+2020-07-21,San Luis,15,0,0,0,Reporte matutino 20-07-21 no fue publicado en la página
+2020-07-21,Santa Cruz,222,16,0,0,Reporte matutino 20-07-21 no fue publicado en la página
+2020-07-21,Santa Fe,753,35,9,0,Reporte matutino 20-07-21 no fue publicado en la página
+2020-07-21,Santiago del Estero,38,1,1,1,Reporte matutino 20-07-21 no fue publicado en la página
+2020-07-21,Tierra del Fuego,248,9,1,0,Reporte matutino 20-07-21 no fue publicado en la página
+2020-07-21,Tucumán,99,1,4,0,Reporte matutino 20-07-21 no fue publicado en la página
