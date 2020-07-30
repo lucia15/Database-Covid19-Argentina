@@ -2804,32 +2804,32 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-07-20,Santiago del Estero,37,0,0,0,
 2020-07-20,Tierra del Fuego,239,0,1,0,
 2020-07-20,Tucumán,98,0,4,0,2 casos fueron reclasificados a la Ciudad de Buenos Aires (CABA)
-2020-07-21,Buenos Aires,76817,3477,1206,34,Reporte matutino 20-07-21 no fue publicado en la página
-2020-07-21,CABA,48158,1452,910,18,Reporte matutino 20-07-21 no fue publicado en la página
-2020-07-21,Catamarca,60,2,0,0,Reporte matutino 20-07-21 no fue publicado en la página
-2020-07-21,Chaco,3031,35,121,0,Reporte matutino 20-07-21 no fue publicado en la página
-2020-07-21,Chubut,254,12,2,0,Reporte matutino 20-07-21 no fue publicado en la página
-2020-07-21,Córdoba,1377,58,41,2,Reporte matutino 20-07-21 no fue publicado en la página
-2020-07-21,Corrientes,130,1,1,0,Reporte matutino 20-07-21 no fue publicado en la página
-2020-07-21,Entre Ríos,656,7,6,1,Reporte matutino 20-07-21 no fue publicado en la página
-2020-07-21,Formosa,75,0,0,0,Reporte matutino 20-07-21 no fue publicado en la página
-2020-07-21,Jujuy,884,120,7,6,Reporte matutino 20-07-21 no fue publicado en la página
-2020-07-21,La Pampa,8,0,0,0,Reporte matutino 20-07-21 no fue publicado en la página
-2020-07-21,La Rioja,186,2,15,0,Reporte matutino 20-07-21 no fue publicado en la página
-2020-07-21,Mendoza,566,49,15,0,Reporte matutino 20-07-21 no fue publicado en la página
-2020-07-21,Misiones,41,0,2,0,Reporte matutino 20-07-21 no fue publicado en la página
-2020-07-21,Neuquén,932,26,22,0,Reporte matutino 20-07-21 no fue publicado en la página
-2020-07-21,Río Negro,1375,34,60,2,Reporte matutino 20-07-21 no fue publicado en la página
-2020-07-21,Salta,177,5,3,0,Reporte matutino 20-07-21 no fue publicado en la página
-2020-07-21,San Juan,16,2,0,0,Reporte matutino 20-07-21 no fue publicado en la página
-2020-07-21,San Luis,15,0,0,0,Reporte matutino 20-07-21 no fue publicado en la página
-2020-07-21,Santa Cruz,222,16,0,0,Reporte matutino 20-07-21 no fue publicado en la página
-2020-07-21,Santa Fe,753,35,9,0,Reporte matutino 20-07-21 no fue publicado en la página
-2020-07-21,Santiago del Estero,38,1,1,1,Reporte matutino 20-07-21 no fue publicado en la página
-2020-07-21,Tierra del Fuego,248,9,1,0,Reporte matutino 20-07-21 no fue publicado en la página
-2020-07-21,Tucumán,99,1,4,0,Reporte matutino 20-07-21 no fue publicado en la página
-2020-07-22,Buenos Aires,80618,3801,1258,52,
-2020-07-22,CABA,49549,1390,952,42,
+2020-07-21,Buenos Aires,76817,3477,1221,49,
+2020-07-21,CABA,48158,1452,924,32,
+2020-07-21,Catamarca,60,2,0,0,
+2020-07-21,Chaco,3031,35,121,0,
+2020-07-21,Chubut,254,12,2,0,
+2020-07-21,Córdoba,1377,58,41,2,
+2020-07-21,Corrientes,130,1,1,0,
+2020-07-21,Entre Ríos,656,7,6,1,
+2020-07-21,Formosa,75,0,0,0,
+2020-07-21,Jujuy,884,120,31,30,
+2020-07-21,La Pampa,8,0,0,0,
+2020-07-21,La Rioja,186,2,15,0,
+2020-07-21,Mendoza,566,49,15,0,
+2020-07-21,Misiones,41,0,2,0,
+2020-07-21,Neuquén,932,26,22,0,
+2020-07-21,Río Negro,1375,34,60,2,
+2020-07-21,Salta,177,5,3,0,
+2020-07-21,San Juan,16,2,0,0,
+2020-07-21,San Luis,15,0,0,0,
+2020-07-21,Santa Cruz,222,16,0,0,
+2020-07-21,Santa Fe,753,35,9,0,
+2020-07-21,Santiago del Estero,38,1,1,1,
+2020-07-21,Tierra del Fuego,248,9,1,0,
+2020-07-21,Tucumán,99,1,4,0,
+2020-07-22,Buenos Aires,80618,3801,1273,52,
+2020-07-22,CABA,49549,1390,966,42,
 2020-07-22,Catamarca,61,1,0,0,
 2020-07-22,Chaco,3104,73,124,3,
 2020-07-22,Chubut,253,0,2,0,1 caso fue reclasificado a la Ciudad de Buenos Aires (CABA)
@@ -2837,7 +2837,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-07-22,Corrientes,130,0,1,0,
 2020-07-22,Entre Ríos,680,24,6,0,
 2020-07-22,Formosa,76,1,0,0,
-2020-07-22,Jujuy,1039,155,7,0,
+2020-07-22,Jujuy,1039,155,31,0,
 2020-07-22,La Pampa,8,0,0,0,
 2020-07-22,La Rioja,196,10,15,0,
 2020-07-22,Mendoza,622,56,16,1,
@@ -2852,8 +2852,8 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-07-22,Santiago del Estero,39,1,1,0,
 2020-07-22,Tierra del Fuego,258,10,1,0,
 2020-07-22,Tucumán,101,2,4,0,
-2020-07-23,Buenos Aires,84919,4300,1327,69,
-2020-07-23,CABA,50817,1267,991,39,
+2020-07-23,Buenos Aires,84919,4300,1342,69,
+2020-07-23,CABA,50817,1267,1005,39,
 2020-07-23,Catamarca,61,0,0,0,
 2020-07-23,Chaco,3155,51,127,3,
 2020-07-23,Chubut,254,1,2,0,
@@ -2861,7 +2861,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-07-23,Corrientes,134,4,1,0,
 2020-07-23,Entre Ríos,711,31,6,0,
 2020-07-23,Formosa,77,1,0,0,
-2020-07-23,Jujuy,1197,158,7,0,
+2020-07-23,Jujuy,1197,158,31,0,
 2020-07-23,La Pampa,8,0,0,0,
 2020-07-23,La Rioja,205,9,15,0,
 2020-07-23,Mendoza,674,52,19,3,
@@ -2876,8 +2876,8 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-07-23,Santiago del Estero,43,4,1,0,
 2020-07-23,Tierra del Fuego,262,4,1,0,
 2020-07-23,Tucumán,99,0,4,0,"1 caso fue reclasificado a la Ciudad de Buenos Aires (CABA), 1 caso fue reclasificado a la provincia de Buenos Aires"
-2020-07-24,Buenos Aires,88709,3790,1407,80,
-2020-07-24,CABA,51977,1157,1010,19,
+2020-07-24,Buenos Aires,88709,3790,1422,80,
+2020-07-24,CABA,51977,1157,1024,19,
 2020-07-24,Catamarca,60,0,0,0,1 caso fue reclasificado a Jujuy
 2020-07-24,Chaco,3218,63,130,3,
 2020-07-24,Chubut,260,6,2,0,
@@ -2885,7 +2885,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-07-24,Corrientes,131,0,1,0,3 casos fue reclasificado a la Ciudad de Buenos Aires (CABA)
 2020-07-24,Entre Ríos,722,11,6,0,
 2020-07-24,Formosa,79,2,0,0,
-2020-07-24,Jujuy,1353,155,7,0,
+2020-07-24,Jujuy,1353,155,31,0,
 2020-07-24,La Pampa,8,0,0,0,
 2020-07-24,La Rioja,215,10,15,0,
 2020-07-24,Mendoza,730,56,20,1,
@@ -2900,8 +2900,8 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-07-24,Santiago del Estero,45,2,1,0,
 2020-07-24,Tierra del Fuego,299,37,1,0,
 2020-07-24,Tucumán,103,4,4,0,
-2020-07-25,Buenos Aires,91959,3250,1481,74,
-2020-07-25,CABA,53099,1121,1018,8,
+2020-07-25,Buenos Aires,91959,3250,1496,74,
+2020-07-25,CABA,53099,1121,1032,8,
 2020-07-25,Catamarca,60,0,0,0,
 2020-07-25,Chaco,3260,42,132,2,
 2020-07-25,Chubut,262,2,2,0,
@@ -2909,7 +2909,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-07-25,Corrientes,136,5,1,0,
 2020-07-25,Entre Ríos,740,18,6,0,
 2020-07-25,Formosa,79,0,0,0,
-2020-07-25,Jujuy,1389,36,7,0,
+2020-07-25,Jujuy,1389,36,31,0,
 2020-07-25,La Pampa,33,25,0,0,
 2020-07-25,La Rioja,230,15,15,0,
 2020-07-25,Mendoza,790,60,20,0,
@@ -2924,8 +2924,8 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-07-25,Santiago del Estero,48,3,1,0,
 2020-07-25,Tierra del Fuego,335,36,1,0,
 2020-07-25,Tucumán,111,8,4,0,
-2020-06-26,Buenos Aires,94877,2917,1500,19,Reporte matutino 20-07-26 no fue publicado en la página
-2020-06-26,CABA,53987,888,1021,3,Reporte matutino 20-07-26 no fue publicado en la página
+2020-06-26,Buenos Aires,94877,2917,1515,19,Reporte matutino 20-07-26 no fue publicado en la página
+2020-06-26,CABA,53987,888,1035,3,Reporte matutino 20-07-26 no fue publicado en la página
 2020-06-26,Catamarca,60,0,0,0,Reporte matutino 20-07-26 no fue publicado en la página
 2020-06-26,Chaco,3326,66,132,0,Reporte matutino 20-07-26 no fue publicado en la página
 2020-06-26,Chubut,264,2,2,0,Reporte matutino 20-07-26 no fue publicado en la página
@@ -2933,7 +2933,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-06-26,Corrientes,138,2,1,0,Reporte matutino 20-07-26 no fue publicado en la página
 2020-06-26,Entre Ríos,761,21,6,0,Reporte matutino 20-07-26 no fue publicado en la página
 2020-06-26,Formosa,78,0,0,0,1 caso fue reclasificado a la provincia de Buenos Aires
-2020-06-26,Jujuy,1435,46,7,0,Reporte matutino 20-07-26 no fue publicado en la página
+2020-06-26,Jujuy,1435,46,31,0,Reporte matutino 20-07-26 no fue publicado en la página
 2020-06-26,La Pampa,40,7,0,0,Reporte matutino 20-07-26 no fue publicado en la página
 2020-06-26,La Rioja,239,9,15,0,Reporte matutino 20-07-26 no fue publicado en la página
 2020-06-26,Mendoza,821,31,23,3,Reporte matutino 20-07-26 no fue publicado en la página
@@ -2948,8 +2948,8 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-06-26,Santiago del Estero,49,1,1,0,Reporte matutino 20-07-26 no fue publicado en la página
 2020-06-26,Tierra del Fuego,341,6,1,0,Reporte matutino 20-07-26 no fue publicado en la página
 2020-06-26,Tucumán,119,8,4,0,Reporte matutino 20-07-26 no fue publicado en la página
-2020-07-27,Buenos Aires,98228,3351,1559,59,
-2020-07-27,CABA,55046,1059,1074,53,
+2020-07-27,Buenos Aires,98228,3351,1582,67,
+2020-07-27,CABA,55046,1059,1088,53,
 2020-07-27,Catamarca,60,0,0,0,
 2020-07-27,Chaco,3358,32,135,3,
 2020-07-27,Chubut,263,-1,2,0,
@@ -2957,7 +2957,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-07-27,Corrientes,152,14,1,0,
 2020-07-27,Entre Ríos,765,4,7,1,
 2020-07-27,Formosa,78,0,0,0,
-2020-07-27,Jujuy,1527,92,7,0,
+2020-07-27,Jujuy,1527,92,31,0,
 2020-07-27,La Pampa,50,10,0,0,
 2020-07-27,La Rioja,249,10,16,1,
 2020-07-27,Mendoza,882,61,23,0,
@@ -2972,8 +2972,8 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-07-27,Santiago del Estero,44,-5,1,0,
 2020-07-27,Tierra del Fuego,373,32,1,0,
 2020-07-27,Tucumán,132,13,4,0,
-2020-07-28,Buenos Aires,102395,4167,1628,69,
-2020-07-28,CABA,56248,1202,1119,45,
+2020-07-28,Buenos Aires,102395,4167,1651,69,
+2020-07-28,CABA,56248,1202,1133,45,
 2020-07-28,Catamarca,60,0,0,0,
 2020-07-28,Chaco,3376,18,135,0,
 2020-07-28,Chubut,266,3,2,0,
@@ -2981,7 +2981,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-07-28,Corrientes,146,-6,1,0,
 2020-07-28,Entre Ríos,769,4,7,0,
 2020-07-28,Formosa,78,0,0,0,
-2020-07-28,Jujuy,1685,158,7,0,
+2020-07-28,Jujuy,1685,158,31,0,
 2020-07-28,La Pampa,59,9,0,0,
 2020-07-28,La Rioja,259,10,16,0,
 2020-07-28,Mendoza,949,67,25,2,
@@ -2996,3 +2996,27 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-07-28,Santiago del Estero,41,-3,1,0,
 2020-07-28,Tierra del Fuego,398,25,1,0,
 2020-07-28,Tucumán,149,17,4,0,
+2020-07-29,Buenos Aires,106247,3852,1722,71,
+2020-07-29,CABA,57327,1079,1163,30,
+2020-07-29,Catamarca,60,0,0,0,
+2020-07-29,Chaco,3428,52,138,3,
+2020-07-29,Chubut,269,3,2,0,
+2020-07-29,Córdoba,2057,111,45,0,
+2020-07-29,Corrientes,162,16,1,0,
+2020-07-29,Entre Ríos,784,15,7,0,
+2020-07-29,Formosa,79,1,0,0,
+2020-07-29,Jujuy,1857,172,31,0,
+2020-07-29,La Pampa,69,10,0,0,
+2020-07-29,La Rioja,290,31,16,0,
+2020-07-29,Mendoza,1014,65,29,4,
+2020-07-29,Misiones,44,0,2,0,
+2020-07-29,Neuquén,1125,30,23,0,
+2020-07-29,Río Negro,1762,55,65,1,
+2020-07-29,Salta,241,9,3,0,
+2020-07-29,San Juan,20,0,0,0,
+2020-07-29,San Luis,24,2,0,0,
+2020-07-29,Santa Cruz,420,44,1,0,
+2020-07-29,Santa Fe,1103,68,12,1,
+2020-07-29,Santiago del Estero,43,2,1,0,
+2020-07-29,Tierra del Fuego,412,14,1,0,
+2020-07-29,Tucumán,159,10,4,0,
