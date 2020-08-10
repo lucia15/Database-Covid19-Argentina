@@ -3263,7 +3263,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-08-09,Buenos Aires,151264,2904,2614,57,
 2020-08-09,CABA,70056,873,1466,21,
 2020-08-09,Catamarca,62,0,0,0,
-2020-08-09,Chaco,4069,66,163,0,
+2020-08-09,Chaco,4069,66,163,0,"Una persona notificada como fallecida, fue reclasificada como no fallecida"
 2020-08-09,Chubut,348,21,3,0,
 2020-08-09,Córdoba,3512,205,67,3,
 2020-08-09,Corrientes,213,6,2,0,
