@@ -463,7 +463,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-04-07,San Luis,11,0,0,0,
 2020-04-07,Santa Cruz,31,8,0,0,
 2020-04-07,Santa Fe,187,3,1,0,
-2020-04-07,Santiago del Estero,9,-1,0,0,
+2020-04-07,Santiago del Estero,9,-1,0,0,Aquellas provincias con dígitos en negativo han reclasificado sus casos a otras jurisdicciones según lugar de residencia
 2020-04-07,Tierra del Fuego,79,2,0,0,
 2020-04-07,Tucumán,28,1,3,0,
 2020-04-08,Buenos Aires,460,17,23,1,
@@ -2952,7 +2952,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-07-27,CABA,55046,1059,1088,53,
 2020-07-27,Catamarca,60,0,0,0,
 2020-07-27,Chaco,3358,32,135,3,
-2020-07-27,Chubut,263,-1,2,0,
+2020-07-27,Chubut,263,-1,2,0,Aquellas provincias con dígitos en negativo han reclasificado sus casos a otras jurisdicciones según lugar de residencia
 2020-07-27,Córdoba,1871,99,43,0,
 2020-07-27,Corrientes,152,14,1,0,
 2020-07-27,Entre Ríos,765,4,7,1,
@@ -2961,15 +2961,15 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-07-27,La Pampa,50,10,0,0,
 2020-07-27,La Rioja,249,10,16,1,
 2020-07-27,Mendoza,882,61,23,0,
-2020-07-27,Misiones,48,-1,2,0,
+2020-07-27,Misiones,48,-1,2,0,Aquellas provincias con dígitos en negativo han reclasificado sus casos a otras jurisdicciones según lugar de residencia
 2020-07-27,Neuquén,1074,23,23,0,
 2020-07-27,Río Negro,1634,62,62,1,
-2020-07-27,Salta,224,-15,3,0,
+2020-07-27,Salta,224,-15,3,0,Aquellas provincias con dígitos en negativo han reclasificado sus casos a otras jurisdicciones según lugar de residencia
 2020-07-27,San Juan,22,1,0,0,
 2020-07-27,San Luis,20,1,0,0,
 2020-07-27,Santa Cruz,344,15,1,0,
 2020-07-27,Santa Fe,972,33,11,2,
-2020-07-27,Santiago del Estero,44,-5,1,0,
+2020-07-27,Santiago del Estero,44,-5,1,0,Aquellas provincias con dígitos en negativo han reclasificado sus casos a otras jurisdicciones según lugar de residencia
 2020-07-27,Tierra del Fuego,373,32,1,0,
 2020-07-27,Tucumán,132,13,5,0,
 2020-07-28,Buenos Aires,102395,4167,1651,69,
@@ -2978,22 +2978,22 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-07-28,Chaco,3376,18,135,0,
 2020-07-28,Chubut,266,3,2,0,
 2020-07-28,Córdoba,1946,75,45,2,
-2020-07-28,Corrientes,146,-6,1,0,
+2020-07-28,Corrientes,146,-6,1,0,Aquellas provincias con dígitos en negativo han reclasificado sus casos a otras jurisdicciones según lugar de residencia
 2020-07-28,Entre Ríos,769,4,7,0,
 2020-07-28,Formosa,78,0,0,0,
 2020-07-28,Jujuy,1685,158,31,0,
 2020-07-28,La Pampa,59,9,0,0,
 2020-07-28,La Rioja,259,10,16,0,
 2020-07-28,Mendoza,949,67,25,2,
-2020-07-28,Misiones,44,-4,2,0,
+2020-07-28,Misiones,44,-4,2,0,Aquellas provincias con dígitos en negativo han reclasificado sus casos a otras jurisdicciones según lugar de residencia
 2020-07-28,Neuquén,1095,21,23,0,
 2020-07-28,Río Negro,1707,73,64,2,
 2020-07-28,Salta,232,8,3,0,
-2020-07-28,San Juan,20,-2,0,0,
+2020-07-28,San Juan,20,-2,0,0,Aquellas provincias con dígitos en negativo han reclasificado sus casos a otras jurisdicciones según lugar de residencia
 2020-07-28,San Luis,22,2,0,0,
 2020-07-28,Santa Cruz,376,32,1,0,
 2020-07-28,Santa Fe,1035,63,11,0,
-2020-07-28,Santiago del Estero,41,-3,1,0,
+2020-07-28,Santiago del Estero,41,-3,1,0,Aquellas provincias con dígitos en negativo han reclasificado sus casos a otras jurisdicciones según lugar de residencia
 2020-07-28,Tierra del Fuego,398,25,1,0,
 2020-07-28,Tucumán,149,17,5,0,
 2020-07-29,Buenos Aires,106247,3852,1722,71,
@@ -3061,11 +3061,11 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-07-31,Neuquén,1187,35,23,0,
 2020-07-31,Río Negro,1947,104,69,2,
 2020-07-31,Salta,259,7,3,0,
-2020-07-31,San Juan,20,-1,0,0,
-2020-07-31,San Luis,26,-1,0,0,
+2020-07-31,San Juan,20,-1,0,0,Aquellas provincias con dígitos en negativo han reclasificado sus casos a otras jurisdicciones según lugar de residencia
+2020-07-31,San Luis,26,-1,0,0,Aquellas provincias con dígitos en negativo han reclasificado sus casos a otras jurisdicciones según lugar de residencia
 2020-07-31,Santa Cruz,454,25,3,1,
 2020-07-31,Santa Fe,1216,63,13,1,
-2020-07-31,Santiago del Estero,44,-1,1,0,
+2020-07-31,Santiago del Estero,44,-1,1,0,Aquellas provincias con dígitos en negativo han reclasificado sus casos a otras jurisdicciones según lugar de residencia
 2020-07-31,Tierra del Fuego,457,12,1,0,
 2020-07-31,Tucumán,204,8,5,0,
 2020-08-01,Buenos Aires,118159,3586,1940,35,
@@ -3081,7 +3081,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-08-01,La Pampa,146,29,0,0,
 2020-08-01,La Rioja,340,3,18,2,
 2020-08-01,Mendoza,1299,84,32,1,
-2020-08-01,Misiones,50,-1,2,0,
+2020-08-01,Misiones,50,-1,2,0,Aquellas provincias con dígitos en negativo han reclasificado sus casos a otras jurisdicciones según lugar de residencia
 2020-08-01,Neuquén,1195,8,23,0,
 2020-08-01,Río Negro,2007,60,69,0,
 2020-08-01,Salta,281,22,3,0,
@@ -3122,19 +3122,19 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-08-03,Chaco,3702,31,147,6,
 2020-08-03,Chubut,292,5,3,0,
 2020-08-03,Córdoba,2567,133,49,0,
-2020-08-03,Corrientes,195,-2,1,0,
+2020-08-03,Corrientes,195,-2,1,0,Aquellas provincias con dígitos en negativo han reclasificado sus casos a otras jurisdicciones según lugar de residencia
 2020-08-03,Entre Ríos,876,29,10,2,"Una persona de sexo masculino, fue cargada por error en el sistema como fallecida"
 2020-08-03,Formosa,81,2,0,0,
 2020-08-03,Jujuy,2481,102,31,0,
 2020-08-03,La Pampa,158,5,0,0,
 2020-08-03,La Rioja,352,5,18,0,
 2020-08-03,Mendoza,1473,79,43,7,
-2020-08-03,Misiones,52,-4,2,0,
+2020-08-03,Misiones,52,-4,2,0,Aquellas provincias con dígitos en negativo han reclasificado sus casos a otras jurisdicciones según lugar de residencia
 2020-08-03,Neuquén,1224,21,25,2,
 2020-08-03,Río Negro,2126,63,72,3,
 2020-08-03,Salta,299,1,3,0,
 2020-08-03,San Juan,22,2,0,0,
-2020-08-03,San Luis,26,-2,0,0,
+2020-08-03,San Luis,26,-2,0,0,Aquellas provincias con dígitos en negativo han reclasificado sus casos a otras jurisdicciones según lugar de residencia
 2020-08-03,Santa Cruz,548,27,3,0,
 2020-08-03,Santa Fe,1435,63,16,1,
 2020-08-03,Santiago del Estero,47,1,1,0,
@@ -3142,18 +3142,18 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-08-03,Tucumán,266,8,5,0,
 2020-08-04,Buenos Aires,129451,4337,2185,114,"Dos personas, una de sexo masculino y otra femenino, fueron cargadas por error en el sistema como fallecidas"
 2020-08-04,CABA,64069,1371,1337,45,
-2020-08-04,Catamarca,63,-2,0,0,
+2020-08-04,Catamarca,63,-2,0,0,Aquellas provincias con dígitos en negativo han reclasificado sus casos a otras jurisdicciones según lugar de residencia
 2020-08-04,Chaco,3755,53,150,3,
 2020-08-04,Chubut,293,1,3,0,
 2020-08-04,Córdoba,2714,147,50,1,
-2020-08-04,Corrientes,191,-4,2,1,
+2020-08-04,Corrientes,191,-4,2,1,Aquellas provincias con dígitos en negativo han reclasificado sus casos a otras jurisdicciones según lugar de residencia
 2020-08-04,Entre Ríos,898,22,10,0,
 2020-08-04,Formosa,82,1,0,0,
 2020-08-04,Jujuy,2750,269,31,0,
 2020-08-04,La Pampa,159,1,0,0,
 2020-08-04,La Rioja,381,29,18,0,
 2020-08-04,Mendoza,1579,106,45,2,
-2020-08-04,Misiones,51,-1,2,0,
+2020-08-04,Misiones,51,-1,2,0,Aquellas provincias con dígitos en negativo han reclasificado sus casos a otras jurisdicciones según lugar de residencia
 2020-08-04,Neuquén,1242,18,25,0,
 2020-08-04,Río Negro,2323,197,74,2,
 2020-08-04,Salta,341,42,3,0,
@@ -3166,13 +3166,13 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-08-04,Tucumán,290,24,5,0,
 2020-08-05,Buenos Aires,134127,4676,2269,84,
 2020-08-05,CABA,65536,1467,1369,32,
-2020-08-05,Catamarca,61,-2,0,0,
+2020-08-05,Catamarca,61,-2,0,0,Aquellas provincias con dígitos en negativo han reclasificado sus casos a otras jurisdicciones según lugar de residencia
 2020-08-05,Chaco,3825,70,152,2,
 2020-08-05,Chubut,302,9,3,0,
 2020-08-05,Córdoba,2851,137,52,2,
 2020-08-05,Corrientes,196,5,2,0,
 2020-08-05,Entre Ríos,940,42,12,2,
-2020-08-05,Formosa,80,-2,0,0,
+2020-08-05,Formosa,80,-2,0,0,Aquellas provincias con dígitos en negativo han reclasificado sus casos a otras jurisdicciones según lugar de residencia
 2020-08-05,Jujuy,2885,135,31,0,
 2020-08-05,La Pampa,165,6,0,0,
 2020-08-05,La Rioja,381,27,18,0,
@@ -3205,8 +3205,8 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-08-06,Neuquén,1376,53,29,2,
 2020-08-06,Río Negro,2666,222,78,4,
 2020-08-06,Salta,417,42,3,0,
-2020-08-06,San Juan,22,-1,0,0,
-2020-08-06,San Luis,32,-1,0,0,
+2020-08-06,San Juan,22,-1,0,0,Aquellas provincias con dígitos en negativo han reclasificado sus casos a otras jurisdicciones según lugar de residencia
+2020-08-06,San Luis,32,-1,0,0,Aquellas provincias con dígitos en negativo han reclasificado sus casos a otras jurisdicciones según lugar de residencia
 2020-08-06,Santa Cruz,635,21,4,1,
 2020-08-06,Santa Fe,1778,141,18,0,
 2020-08-06,Santiago del Estero,76,10,1,0,
@@ -3225,7 +3225,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-08-07,La Pampa,177,7,0,0,
 2020-08-07,La Rioja,477,29,19,1,
 2020-08-07,Mendoza,1918,124,50,2,
-2020-08-07,Misiones,51,-1,2,0,
+2020-08-07,Misiones,51,-1,2,0,Aquellas provincias con dígitos en negativo han reclasificado sus casos a otras jurisdicciones según lugar de residencia
 2020-08-07,Neuquén,1418,42,30,1,
 2020-08-07,Río Negro,2771,105,79,1,
 2020-08-07,Salta,471,54,7,4,
@@ -3249,7 +3249,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-08-08,La Pampa,178,1,0,0,
 2020-08-08,La Rioja,513,36,20,1,
 2020-08-08,Mendoza,2042,124,51,1,
-2020-08-08,Misiones,49,-2,2,0,
+2020-08-08,Misiones,49,-2,2,0,Aquellas provincias con dígitos en negativo han reclasificado sus casos a otras jurisdicciones según lugar de residencia
 2020-08-08,Neuquén,1436,18,30,0,
 2020-08-08,Río Negro,2841,70,82,3,
 2020-08-08,Salta,539,68,7,0,
@@ -3277,7 +3277,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-08-09,Neuquén,1465,29,30,0,
 2020-08-09,Río Negro,2903,62,82,0,
 2020-08-09,Salta,585,46,7,0,
-2020-08-09,San Juan,22,-1,0,0,
+2020-08-09,San Juan,22,-1,0,0,Aquellas provincias con dígitos en negativo han reclasificado sus casos a otras jurisdicciones según lugar de residencia
 2020-08-09,San Luis,34,1,0,0,
 2020-08-09,Santa Cruz,748,41,4,0,
 2020-08-09,Santa Fe,2136,87,22,1,
@@ -3302,7 +3302,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-08-10,Río Negro,3008,105,86,4,
 2020-08-10,Salta,607,22,7,0,
 2020-08-10,San Juan,22,0,0,0,
-2020-08-10,San Luis,31,-3,0,0,
+2020-08-10,San Luis,31,-3,0,0,Aquellas provincias con dígitos en negativo han reclasificado sus casos a otras jurisdicciones según lugar de residencia
 2020-08-10,Santa Cruz,805,57,4,0,
 2020-08-10,Santa Fe,2276,140,23,1,
 2020-08-10,Santiago del Estero,137,3,1,0,
@@ -3316,7 +3316,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-08-11,Córdoba,3830,148,73,3,
 2020-08-11,Corrientes,217,2,2,0,
 2020-08-11,Entre Ríos,1244,35,15,2,
-2020-08-11,Formosa,80,-4,0,0,
+2020-08-11,Formosa,80,-4,0,0,Aquellas provincias con dígitos en negativo han reclasificado sus casos a otras jurisdicciones según lugar de residencia
 2020-08-11,Jujuy,3884,318,33,0,
 2020-08-11,La Pampa,180,0,0,0,
 2020-08-11,La Rioja,519,1,21,0,
@@ -3345,7 +3345,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-08-12,La Pampa,180,0,0,0,
 2020-08-12,La Rioja,541,22,21,0,
 2020-08-12,Mendoza,2581,189,60,3,
-2020-08-12,Misiones,53,-1,2,0,
+2020-08-12,Misiones,53,-1,2,0,Aquellas provincias con dígitos en negativo han reclasificado sus casos a otras jurisdicciones según lugar de residencia
 2020-08-12,Neuquén,1654,155,31,0,
 2020-08-12,Río Negro,3375,180,93,3,
 2020-08-12,Salta,746,67,7,0,
@@ -3364,7 +3364,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-08-13,Córdoba,4146,175,76,3,
 2020-08-13,Corrientes,222,2,2,0,
 2020-08-13,Entre Ríos,1365,55,18,3,
-2020-08-13,Formosa,78,-2,0,0,
+2020-08-13,Formosa,78,-2,0,0,Aquellas provincias con dígitos en negativo han reclasificado sus casos a otras jurisdicciones según lugar de residencia
 2020-08-13,Jujuy,4203,170,52,19,
 2020-08-13,La Pampa,181,1,0,0,
 2020-08-13,La Rioja,639,99,21,0,
@@ -3397,7 +3397,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-08-14,Neuquén,1735,16,32,1,
 2020-08-14,Río Negro,3653,118,104,6,
 2020-08-14,Salta,930,106,9,2,
-2020-08-14,San Juan,22,-1,0,0,
+2020-08-14,San Juan,22,-1,0,0,Aquellas provincias con dígitos en negativo han reclasificado sus casos a otras jurisdicciones según lugar de residencia
 2020-08-14,San Luis,34,1,0,0,
 2020-08-14,Santa Cruz,954,40,4,0,
 2020-08-14,Santa Fe,2954,190,30,1,
@@ -3465,7 +3465,7 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-08-17,La Pampa,185,1,0,0,
 2020-08-17,La Rioja,795,45,21,0,
 2020-08-17,Mendoza,3499,169,77,1,
-2020-08-17,Misiones,55,-4,2,0,
+2020-08-17,Misiones,55,-4,2,0,Aquellas provincias con dígitos en negativo han reclasificado sus casos a otras jurisdicciones según lugar de residencia
 2020-08-17,Neuquén,1898,64,33,1,
 2020-08-17,Río Negro,3936,82,111,6,
 2020-08-17,Salta,1176,88,20,6,
@@ -3478,15 +3478,15 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-08-17,Tucumán,634,30,6,0,
 2020-08-18,Buenos Aires,190199,4585,3525,134,
 2020-08-18,CABA,79252,1051,1759,59,
-2020-08-18,Catamarca,64,-1,0,0,
+2020-08-18,Catamarca,64,-1,0,0,Aquellas provincias con dígitos en negativo han reclasificado sus casos a otras jurisdicciones según lugar de residencia
 2020-08-18,Chaco,4549,45,187,3,
 2020-08-18,Chubut,424,7,4,0,
 2020-08-18,Córdoba,4991,227,87,5,
 2020-08-18,Corrientes,233,3,2,0,
 2020-08-18,Entre Ríos,1750,46,26,0,
-2020-08-18,Formosa,79,-1,1,1,
+2020-08-18,Formosa,79,-1,1,1,Aquellas provincias con dígitos en negativo han reclasificado sus casos a otras jurisdicciones según lugar de residencia
 2020-08-18,Jujuy,5227,218,105,16,
-2020-08-18,La Pampa,184,-1,0,0,
+2020-08-18,La Pampa,184,-1,0,0,Aquellas provincias con dígitos en negativo han reclasificado sus casos a otras jurisdicciones según lugar de residencia
 2020-08-18,La Rioja,851,56,21,0,
 2020-08-18,Mendoza,3623,124,85,8,
 2020-08-18,Misiones,55,0,2,0,
@@ -3500,3 +3500,27 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-08-18,Santiago del Estero,338,12,1,0,
 2020-08-18,Tierra del Fuego,1489,10,18,1,
 2020-08-18,Tucumán,678,44,6,0,
+2020-08-19,Buenos Aires,194502,4303,3734,209,Una persona de sexo masculino de 62 años notificada como fallecida fue reclasificada como no fallecida
+2020-08-19,CABA,80346,1094,1806,47,
+2020-08-19,Catamarca,63,-1,0,0,Aquellas provincias con dígitos en negativo han reclasificado sus casos a otras jurisdicciones según lugar de residencia
+2020-08-19,Chaco,4606,57,188,1,
+2020-08-19,Chubut,437,13,4,0,
+2020-08-19,Córdoba,5091,100,87,0,
+2020-08-19,Corrientes,236,3,2,0,
+2020-08-19,Entre Ríos,1810,60,27,1,
+2020-08-19,Formosa,79,0,1,0,
+2020-08-19,Jujuy,5360,133,117,12,
+2020-08-19,La Pampa,186,2,0,0,
+2020-08-19,La Rioja,905,54,21,0,
+2020-08-19,Mendoza,3773,150,90,5,
+2020-08-19,Misiones,55,0,2,0,
+2020-08-19,Neuquén,1961,50,37,1,
+2020-08-19,Río Negro,4168,94,116,3,
+2020-08-19,Salta,1401,114,23,2,
+2020-08-19,San Juan,22,0,0,0,
+2020-08-19,San Luis,36,0,0,0,
+2020-08-19,Santa Cruz,1145,56,4,0,
+2020-08-19,Santa Fe,3763,202,36,2,
+2020-08-19,Santiago del Estero,379,41,1,0,
+2020-08-19,Tierra del Fuego,1553,64,18,0,
+2020-08-19,Tucumán,782,104,6,0,
