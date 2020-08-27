@@ -946,7 +946,7 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes,observacion
 2020-06-18,CABA,945,mujer,82,,,,
 2020-06-18,CABA,946,mujer,47,,,,
 2020-06-18,Chaco,947,mujer,47,,,,
-2020-06-18,CABA,948,,97,,,,Sin datos de género
+2020-06-18,CABA,948,sin dato,97,,,,
 2020-06-19,Buenos Aires,949,hombre,75,,,,
 2020-06-19,Chaco,950,hombre,67,,,,
 2020-06-19,Buenos Aires,951,mujer,59,,,,
@@ -1009,7 +1009,7 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes,observacion
 2020-06-21,CABA,1008,hombre,45,,,,
 2020-06-21,Río Negro,1009,hombre,56,,,,
 2020-06-21,Buenos Aires,1010,mujer,64,,,,
-2020-06-21,CABA,1011,,88,,,,Sin datos de género
+2020-06-21,CABA,1011,sin dato,88,,,,
 2020-06-22,Buenos Aires,1012,hombre,88,,,,
 2020-06-22,Buenos Aires,1013,hombre,76,,,,
 2020-06-22,CABA,1014,hombre,66,,,,
@@ -1114,7 +1114,7 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes,observacion
 2020-06-24,CABA,1113,mujer,95,,,,
 2020-06-24,CABA,1114,mujer,91,,,,
 2020-06-24,CABA,1115,mujer,95,,,,
-2020-06-24,CABA,1116,,86,,,,Sin datos de género
+2020-06-24,CABA,1116,sin dato,86,,,,
 2020-06-25,Buenos Aires,1117,hombre,84,,,,
 2020-06-25,Buenos Aires,1118,hombre,68,,,,
 2020-06-25,Buenos Aires,1119,hombre,59,,,,
@@ -1148,7 +1148,7 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes,observacion
 2020-06-25,CABA,1147,mujer,94,,,,
 2020-06-25,CABA,1148,mujer,57,,,,
 2020-06-25,CABA,1149,mujer,95,,,,
-2020-06-25,Buenos Aires,1150,,86,,,,Sin datos de género
+2020-06-25,Buenos Aires,1150,sin dato,86,,,,
 2020-06-26,Buenos Aires,1151,hombre,84,,,,
 2020-06-26,Buenos Aires,1152,hombre,65,,,,
 2020-06-26,Buenos Aires,1153,hombre,94,,,,
@@ -1600,7 +1600,7 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes,observacion
 2020-07-07,CABA,1599,mujer,90,,,,
 2020-07-07,CABA,1600,mujer,77,,,,
 2020-07-07,Río Negro,1601,mujer,75,,,,
-2020-07-07,Buenos Aires,1602,,71,,,,Sin datos de género
+2020-07-07,Buenos Aires,1602,sin dato,71,,,,
 2020-07-07,Buenos Aires,1603,hombre,49,,,,
 2020-07-07,Buenos Aires,1604,hombre,50,,,,
 2020-07-07,Buenos Aires,1605,hombre,73,,,,
@@ -1719,7 +1719,7 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes,observacion
 2020-07-09,Salta,1718,hombre,82,,,,
 2020-07-09,Buenos Aires,1719,mujer,88,,,,
 2020-07-09,CABA,1720,mujer,88,,,,
-2020-07-09,CABA,1721,,91,,,,Sin datos de género
+2020-07-09,CABA,1721,sin dato,91,,,,
 2020-07-10,Buenos Aires,1722,hombre,72,,,,
 2020-07-10,Buenos Aires,1723,hombre,75,,,,
 2020-07-10,Buenos Aires,1724,hombre,72,,,,
@@ -1748,7 +1748,7 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes,observacion
 2020-07-10,Buenos Aires,1747,mujer,79,,,,
 2020-07-10,Buenos Aires,1748,mujer,67,,,,
 2020-07-10,Buenos Aires,1749,mujer,94,,,,
-2020-07-10,CABA,1750,,84,,,,Sin datos de género
+2020-07-10,CABA,1750,sin dato,84,,,,
 2020-07-10,Buenos Aires,1751,hombre,89,,,,
 2020-07-10,Buenos Aires,1752,hombre,49,,,,
 2020-07-10,Buenos Aires,1753,hombre,37,,,,
@@ -1817,7 +1817,7 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes,observacion
 2020-07-12,CABA,1816,hombre,84,,,,
 2020-07-12,Buenos Aires,1817,mujer,88,,,,
 2020-07-12,Buenos Aires,1818,mujer,72,,,,
-2020-07-12,CABA,1819,,81,,,,Sin datos de género
+2020-07-12,CABA,1819,sin dato,81,,,,
 2020-07-12,Buenos Aires,1820,hombre,56,,,,
 2020-07-12,Buenos Aires,1821,hombre,55,,,,
 2020-07-12,Buenos Aires,1822,hombre,42,,,,
@@ -1844,7 +1844,7 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes,observacion
 2020-07-12,Buenos Aires,1843,mujer,77,,,,
 2020-07-12,Buenos Aires,1844,mujer,56,,,,
 2020-07-12,CABA,1845,mujer,69,,,,
-2020-07-12,CABA,1846,,77,,,,Sin datos de género
+2020-07-12,CABA,1846,sin dato,77,,,,
 2020-07-13,Buenos Aires,1847,hombre,87,,,,
 2020-07-13,Buenos Aires,1848,hombre,77,,,,
 2020-07-13,Buenos Aires,1849,hombre,100,,,,
@@ -2049,7 +2049,7 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes,observacion
 2020-07-15,CABA,2048,mujer,57,,,,
 2020-07-15,Santa Fe,2049,mujer,93,,,,
 2020-07-15,Entre Ríos,2050,mujer,83,,,,
-2020-07-15,Buenos Aires,2051,,92,,,,Sin datos de género
+2020-07-15,Buenos Aires,2051,sin dato,92,,,,
 2020-07-16,Buenos Aires,2052,hombre,71,,,,
 2020-07-16,Buenos Aires,2053,hombre,72,,,,
 2020-07-16,Buenos Aires,2054,hombre,71,,,,
@@ -3059,7 +3059,7 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes,observacion
 2020-07-27,CABA,3058,mujer,,,,,
 2020-07-27,CABA,3059,mujer,,,,,
 2020-07-27,Santa Fe,3060,mujer,,,,,
-2020-07-27,Buenos Aires,3061,,,,,,Sin datos de género
+2020-07-27,Buenos Aires,3061,sin dato,,,,,
 2020-07-28,Buenos Aires,3062,hombre,,,,,
 2020-07-28,Buenos Aires,3063,hombre,,,,,
 2020-07-28,Buenos Aires,3064,hombre,,,,,
@@ -3289,7 +3289,7 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes,observacion
 2020-07-29,Mendoza,3288,mujer,,,,,
 2020-07-29,Mendoza,3289,mujer,,,,,
 2020-07-29,Santa Fe,3290,mujer,,,,,
-2020-07-29,CABA,3291,,,,,,Sin datos de género
+2020-07-29,CABA,3291,sin dato,,,,,
 2020-07-30,Buenos Aires,3292,hombre,,,,,
 2020-07-30,Buenos Aires,3293,hombre,,,,,
 2020-07-30,Buenos Aires,3294,hombre,,,,,
@@ -3543,8 +3543,8 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes,observacion
 2020-07-31,Río Negro,3542,mujer,,,,,
 2020-07-31,Santa Fe,3543,mujer,,,,,
 2020-07-31,Chubut,3544,mujer,,,,,
-2020-07-31,Buenos Aires,3545,,,,,,Sin datos de género
-2020-07-31,Buenos Aires,3546,,,,,,Sin datos de género
+2020-07-31,Buenos Aires,3545,sin dato,,,,,
+2020-07-31,Buenos Aires,3546,sin dato,,,,,
 2020-08-01,Buenos Aires,3547,hombre,,,,,
 2020-08-01,Buenos Aires,3548,hombre,,,,,
 2020-08-01,Buenos Aires,3549,hombre,,,,,
@@ -3867,7 +3867,7 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes,observacion
 2020-08-04,CABA,3866,mujer,,,,,
 2020-08-04,CABA,3867,mujer,,,,,
 2020-08-04,CABA,3868,mujer,,,,,
-2020-08-04,Buenos Aires,3869,,,,,,Sin datos de género
+2020-08-04,Buenos Aires,3869,sin dato,,,,,
 2020-08-04,Buenos Aires,3870,hombre,,,,,
 2020-08-04,Buenos Aires,3871,hombre,,,,,
 2020-08-04,Buenos Aires,3872,hombre,,,,,
@@ -3983,7 +3983,7 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes,observacion
 2020-08-04,Córdoba,3982,mujer,,,,,
 2020-08-04,Río Negro,3983,mujer,,,,,
 2020-08-04,Mendoza,3984,mujer,,,,,
-2020-08-04,Buenos Aires,3985,,,,,,Sin datos de género
+2020-08-04,Buenos Aires,3985,sin dato,,,,,
 2020-08-05,Buenos Aires,3986,hombre,,,,,
 2020-08-05,Buenos Aires,3987,hombre,,,,,
 2020-08-05,Buenos Aires,3988,hombre,,,,,
@@ -4257,7 +4257,7 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes,observacion
 2020-08-06,Río Negro,4256,mujer,,,,,
 2020-08-06,Río Negro,4257,mujer,,,,,
 2020-08-06,Santa Cruz,4258,mujer,,,,,
-2020-08-06,Buenos Aires,4259,,,,,,Sin datos de género
+2020-08-06,Buenos Aires,4259,sin dato,,,,,
 2020-08-07,Buenos Aires,4260,hombre,,,,,
 2020-08-07,Buenos Aires,4261,hombre,,,,,
 2020-08-07,Buenos Aires,4262,hombre,,,,,
@@ -4530,7 +4530,7 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes,observacion
 2020-08-08,CABA,4529,mujer,,,,,
 2020-08-08,Santa Fe,4530,mujer,,,,,
 2020-08-08,Córdoba,4531,mujer,,,,,
-2020-08-08,Buenos Aires,4532,,,,,,Sin datos de género
+2020-08-08,Buenos Aires,4532,sin dato,,,,,
 2020-08-09,Buenos Aires,4533,hombre,,,,,
 2020-08-09,Buenos Aires,4534,hombre,,,,,
 2020-08-09,Buenos Aires,4535,hombre,,,,,
@@ -5098,7 +5098,7 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes,observacion
 2020-08-12,CABA,5097,mujer,,,,,
 2020-08-12,Tierra del Fuego,5098,mujer,,,,,
 2020-08-12,Mendoza,5099,mujer,,,,,
-2020-08-12,Buenos Aires,5100,,,,,,Sin datos de género
+2020-08-12,Buenos Aires,5100,sin dato,,,,,
 2020-08-12,Buenos Aires,5101,hombre,,,,,
 2020-08-12,Buenos Aires,5102,hombre,,,,,
 2020-08-12,Buenos Aires,5103,hombre,,,,,
@@ -5223,7 +5223,7 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes,observacion
 2020-08-12,CABA,5222,mujer,,,,,
 2020-08-12,Río Negro,5223,mujer,,,,,
 2020-08-12,Río Negro,5224,mujer,,,,,
-2020-08-12,Buenos Aires,5225,,,,,,Sin datos de género
+2020-08-12,Buenos Aires,5225,sin dato,,,,,
 2020-08-13,Buenos Aires,5226,hombre,,,,,
 2020-08-13,Buenos Aires,5227,hombre,,,,,
 2020-08-13,Buenos Aires,5228,hombre,,,,,
@@ -5372,7 +5372,7 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes,observacion
 2020-08-13,Río Negro,5371,mujer,,,,,
 2020-08-13,Río Negro,5372,mujer,,,,,
 2020-08-13,Santa Fe,5373,mujer,,,,,
-2020-08-13,Buenos Aires,5374,,,,,,Sin datos de género
+2020-08-13,Buenos Aires,5374,sin dato,,,,,
 2020-08-14,Buenos Aires,5375,hombre,,,,,
 2020-08-14,Buenos Aires,5376,hombre,,,,,
 2020-08-14,Buenos Aires,5377,hombre,,,,,
@@ -5667,7 +5667,7 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes,observacion
 2020-08-16,Buenos Aires,5666,mujer,,,,,
 2020-08-16,Buenos Aires,5667,mujer,,,,,
 2020-08-16,Chaco,5668,mujer,,,,,
-2020-08-16,Buenos Aires,5669,,,,,,Sin datos de género
+2020-08-16,Buenos Aires,5669,sin dato,,,,,
 2020-08-16,Buenos Aires,5670,hombre,,,,,
 2020-08-16,Buenos Aires,5671,hombre,,,,,
 2020-08-16,Buenos Aires,5672,hombre,,,,,
@@ -6057,9 +6057,9 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes,observacion
 2020-08-18,Mendoza,6056,mujer,,,,,
 2020-08-18,Santa Fe,6057,mujer,,,,,
 2020-08-18,Tierra del Fuego,6058,mujer,,,,,
-2020-08-18,Buenos Aires,6059,,,,,,Sin datos de género
-2020-08-18,Buenos Aires,6060,,,,,,Sin datos de género
-2020-08-18,Jujuy,6061,,,,,,Sin datos de género
+2020-08-18,Buenos Aires,6059,sin dato,,,,,
+2020-08-18,Buenos Aires,6060,sin dato,,,,,
+2020-08-18,Jujuy,6061,sin dato,,,,,
 2020-08-19,Buenos Aires,6062,hombre,,,,,
 2020-08-19,Buenos Aires,6063,hombre,,,,,
 2020-08-19,Buenos Aires,6064,hombre,,,,,
@@ -7092,8 +7092,8 @@ fecha,provincia,num_caso,genero,edad,tipo_caso,comorbilidades,viajes,observacion
 2020-08-24,Neuquén,7091,mujer,,,,,
 2020-08-24,Santa Cruz,7092,mujer,,,,,
 2020-08-24,Santa Cruz,7093,mujer,,,,,
-2020-08-24,Buenos Aires,7094,,,,,,Sin datos de género
-2020-08-24,Buenos Aires,7095,,,,,,Sin datos de género
+2020-08-24,Buenos Aires,7094,sin dato,,,,,
+2020-08-24,Buenos Aires,7095,sin dato,,,,,
 2020-08-24,Buenos Aires,7096,hombre,,,,,
 2020-08-24,Buenos Aires,7097,hombre,,,,,
 2020-08-24,Buenos Aires,7098,hombre,,,,,
