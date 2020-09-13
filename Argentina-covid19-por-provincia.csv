@@ -4076,3 +4076,27 @@ fecha,provincia,casos_total,casos_nuevos,muertes_total,muertes_nuevos,observacio
 2020-09-11,Santiago del Estero,1641,83,316,0,Reporte matutino 20-09-11 no fue publicado en la página
 2020-09-11,Tierra del Fuego,2635,43,64,1,Reporte matutino 20-09-11 no fue publicado en la página
 2020-09-11,Tucumán,5891,472,100,1,Reporte matutino 20-09-11 no fue publicado en la página
+2020-09-12,Buenos Aires,328100,5862,3264,54,
+2020-09-12,CABA,110057,985,830,23,
+2020-09-12,Catamarca,120,6,87,0,
+2020-09-12,Chaco,6660,117,50,3,
+2020-09-12,Chubut,1645,165,37,4,
+2020-09-12,Córdoba,13887,491,109,4,
+2020-09-12,Corrientes,659,56,121,0,
+2020-09-12,Entre Ríos,5133,138,62,0,
+2020-09-12,Formosa,95,-1,21,0,Aquellas provincias con dígitos en negativo han reclasificado sus casos a otras jurisdicciones según lugar de residencia
+2020-09-12,Jujuy,11953,254,256,6,
+2020-09-12,La Pampa,351,30,5,0,
+2020-09-12,La Rioja,2712,47,92,0,
+2020-09-12,Mendoza,13778,718,224,2,
+2020-09-12,Misiones,68,3,23,0,
+2020-09-12,Neuquén,4526,67,42,0,
+2020-09-12,Río Negro,8589,229,114,0,
+2020-09-12,Salta,6425,266,71,2,
+2020-09-12,San Juan,422,23,49,5,
+2020-09-12,San Luis,382,3,1,0,
+2020-09-12,Santa Cruz,2876,114,36,0,
+2020-09-12,Santa Fe,17562,889,165,8,
+2020-09-12,Santiago del Estero,1753,112,316,0,
+2020-09-12,Tierra del Fuego,2683,48,67,3,
+2020-09-12,Tucumán,6045,154,101,1,
