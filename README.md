@@ -18,7 +18,18 @@ El primer dataset, Argentina-covid19.csv, contiene las siguientes variables:
 + *fecha*: Fecha de los datos reportados
 + *dia_cuarentena*: día de cuatentena desde la resolución del DNU 260
 + *casos_nuevos*: Casos nuevos del día
-+ *casos_total*: Total de casos hasta el momento	
++ *casos_total*: Total de casos hasta el momento
++ *activos*: Cantidad de casos que continúan activos
++ *alta_total*:	Cantidad de casos que fueron dados de alta (recuperados) hasta el momento
++ *alta_nuevos*: Cantidad de altas del día
++ *muertes_total*: Cantidad de fallecidos hasta el momento
++ *muertes_nuevos*:	Cantidad de fallecidos del día
++ *tests_realizados_total*:	Cantidad de tests realizados hasta el momento
++ *tests_realizados_nuevos*: Cantidad de tests realizados en el día
++ *test_por_millon_hab*: Cantidad de tests realizados por millón de habitantes
++ *internados*: Cantidad de casos confirmados COVID-19 internados en Unidades de Terapia Intensiva (UTI), según información reportada por las juridicciones
++ *%Nacion*: Porcentaje ocupación total de camas UTI adulto en el territorio nacional, según información reportada por las juridicciones
++ *%AMBA*: Porcentaje ocupación total de camas UTI adulto en el Área Metropolitana de Bs. As (AMBA), según información reportada por las juridicciones
 + *%mujer*:	Porcentaje de mujeres del total de casos hasta el momento
 + *%varon*:	Porcentaje de varones del total de casos hasta el momento
 + *mujer_total*: Número de mujeres infectadas del total de infectados hasta el momento
@@ -33,19 +44,9 @@ El primer dataset, Argentina-covid19.csv, contiene las siguientes variables:
 + *comunitario_nuevos*: Cantidad de casos que son de contagio comunitario de los casos nuevos del día	
 + *en_investigacion_total*:	Cantidad de casos que se encuentra en investigación epidemiológica
 + *en_investigacion_nuevos*: Casos que se encuentra en investigación epidemiológica del día
-+ *muertes_total*: Cantidad de fallecidos hasta el momento
-+ *muertes_nuevos*:	Cantidad de fallecidos del día
-+ *alta_total*:	Cantidad de casos que fueron dados de alta (recuperados) hasta el momento
-+ *alta_nuevos*: Cantidad de altas del día
 + *alta_definitiva*: Cantidad de altas que son definitivas
 + *descartados_total*: Cantidad de casos sospechosos descartados hasta el momento
 + *descartados_nuevos*:	Cantidad de casos sospechosos descartados en el día
-+ *tests_realizados_total*:	Cantidad de tests realizados hasta el momento
-+ *tests_realizados_nuevos*: Cantidad de tests realizados en el día
-+ *test_por_millon_hab*: Cantidad de tests realizados por millón de habitantes
-+ *internados*: Cantidad de casos confirmados COVID-19 internados en Unidades de Terapia Intensiva (UTI), según información reportada por las juridicciones
-+ *%Nacion*: Porcentaje ocupación total de camas UTI adulto en el territorio nacional, según información reportada por las juridicciones
-+ *%AMBA*: Porcentaje ocupación total de camas UTI adulto en el Área Metropolitana de Bs. As (AMBA), según información reportada por las juridicciones
 + *observaciones*: Información relevante del día de la fecha
 
 
